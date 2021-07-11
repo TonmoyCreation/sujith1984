@@ -12,7 +12,7 @@ http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86074.ts
 #EXTINF: -1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png" group-title="Entertainment", Mazhavil Manorama HD
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86122.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="Entertainment", Flowers
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/8956
+http://ky-iptv.com:25461/kathryn/kathryn/1123250
 #EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/100086833_2690584971211552_2194978706324193280_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=fA5042u_cogAX-lA7OC&_nc_ht=scontent.fcok6-1.fna&oh=753f68cee2150332ef69c0c3d964ec71&oe=60E86C30" group-title="Entertainment", ANAND TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/36141_137611736288618_1021438_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=oeo1JJyxE6oAX8jBb5k&_nc_ht=scontent.fcok6-1.fna&oh=ef7ff7491f8bd15e02b96be764693ba0&oe=60E786D2" group-title="Entertainment", ACV Comex
@@ -34,7 +34,7 @@ https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF: -1 tvg-chno="6" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/08/PRVASICHANNEL.jpg" group-title="Entertainment", Pravasi Channel HD
 https://5ee50688d7b5d.streamlock.net:444/live/pravasi/chunklist_w685168263.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="Entertainment", DD Malayalam
-http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(02)/index.m3u8
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/w881DVW.png" group-title="Entertainment", Safari
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="Entertainment", Kaumudy TV
