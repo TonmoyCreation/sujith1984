@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-id="Asianet.HD.in" tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg" group-title="Entertainment", Asianet HD
 http://rv.flysat.live:80/307211611126/307211611126/83893
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/16938718_1131665713609349_8279872102504842047_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=30GXSpjUxDoAX-oAhbM&_nc_ht=scontent.fcok6-1.fna&oh=92b820e463397cb75e5f3b88a338414b&oe=60E7AE4F" group-title="Entertainment", Asianet Middleeast
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86062.ts
 
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg" group-title="Entertainment", Asianet Plus
@@ -20,22 +20,22 @@ https://jio.instream.ml/jio.php?c=Mazavali_Manorama_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="Entertainment", Flowers
 http://ky-iptv.com:25461/kathryn/kathryn/1123250
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/100086833_2690584971211552_2194978706324193280_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=fA5042u_cogAX-lA7OC&_nc_ht=scontent.fcok6-1.fna&oh=753f68cee2150332ef69c0c3d964ec71&oe=60E86C30" group-title="Entertainment", ANAND TV
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.6435-9/100086833_2690584971211552_2194978706324193280_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=CR27DykJyVMAX9-d0IH&_nc_ht=scontent.fccj5-1.fna&oh=a10f70d1b8d61af017f84a554be2cb5d&oe=60F449B0" group-title="Entertainment", ANAND TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/36141_137611736288618_1021438_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=oeo1JJyxE6oAX8jBb5k&_nc_ht=scontent.fcok6-1.fna&oh=ef7ff7491f8bd15e02b96be764693ba0&oe=60E786D2" group-title="Entertainment", ACV Comex
 http://cdn.asianetmobiletvplus.com:80/channels/acvcomex_xfucgtpccbhpdvtlbsnaeszjqliqupju/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/22222058_256171871571751_7613187455149180628_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=JDDf9abi8YgAX8V6QTo&_nc_ht=scontent.fcok6-1.fna&oh=cb9ceab48d7f0ad079eee77a909549c3&oe=60E75D37" group-title="Entertainment", Kerala Vision
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.18169-9/22222058_256171871571751_7613187455149180628_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kePJA6AWXRwAX9SrpSz&_nc_ht=scontent.fccj5-1.fna&oh=4bb0f7cbccd8a1541d25c412edac2a8c&oe=60F534F7" group-title="Entertainment", Kerala Vision
 http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/22222058_256171871571751_7613187455149180628_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=JDDf9abi8YgAX8V6QTo&_nc_ht=scontent.fcok6-1.fna&oh=cb9ceab48d7f0ad079eee77a909549c3&oe=60E75D37" group-title="Entertainment", KERALA VISION 1
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.18169-9/22222058_256171871571751_7613187455149180628_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kePJA6AWXRwAX9SrpSz&_nc_ht=scontent.fccj5-1.fna&oh=4bb0f7cbccd8a1541d25c412edac2a8c&oe=60F534F7" group-title="Entertainment", KERALA VISION 1
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="Entertainment", Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/13434875_1419304661428870_2347942248067090959_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=SOmBSs3MOnYAX8-i6Rh&_nc_ht=scontent.fcok6-1.fna&oh=6437ed9e5dddedaf3922751367d4d53b&oe=60E6B62C" group-title="Entertainment", Kairali Arabia
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.18169-9/13434875_1419304661428870_2347942248067090959_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=R89oQCf9N5kAX-YNZhJ&_nc_ht=scontent.fccj5-1.fna&oh=dd79850882ca46ce54e147abb1ca7868&oe=60F48DEC" group-title="Entertainment", Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="Entertainment", Kairali We
@@ -47,7 +47,7 @@ http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 #EXTINF: -1 tvg-logo="https://m4tv.com.au/assests/images/logo.png" group-title="Entertainment", M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
-#EXTINF: -1 tvg-chno="6" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/08/PRVASICHANNEL.jpg" group-title="Entertainment", Pravasi Channel HD
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t31.18172-8/11026216_264534093717199_6310455184030614860_o.png?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=gjRmONbLShAAX-oVhV1&_nc_ht=scontent.fccj5-1.fna&oh=04ecc1db6b7e6766eaac33274feaac05&oe=60F4CD16" group-title="Entertainment", Pravasi Channel HD
 https://5ee50688d7b5d.streamlock.net:444/live/pravasi/chunklist_w685168263.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="Entertainment", DD Malayalam
@@ -68,16 +68,16 @@ http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/Stream(01)/index.m3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="Entertainment", Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master_900.m3u8
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t31.18172-8/20545323_850370475119313_7020688018565467846_o.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=dqAQuOOJTo4AX9cGNhN&_nc_ht=scontent.fcok6-1.fna&oh=45f02f0559018ae514621f683ce77f10&oe=60E7AB6D" group-title="Entertainment", Pulari Tv
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t31.18172-8/20545323_850370475119313_7020688018565467846_o.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=ANdk_aZPcO8AX_keYE2&_nc_ht=scontent.fccj5-1.fna&oh=028861b53b79d4c05c998a93e8965ea6&oe=60F5832D" group-title="Entertainment", Pulari Tv
 http://192.99.2.28/pularitv_hls/pularitv.m3u8
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/52595756_2057381627893959_5176026184042938368_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=aZ16VyWO5GkAX-N21Ob&tn=BOW5gvfStOBSXDSR&_nc_ht=scontent.fcok6-1.fna&oh=fbeea889dd367235aa8de6b751a973f6&oe=60E80044" group-title="Entertainment", NAV MEDIA
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.6435-9/52595756_2057381627893959_5176026184042938368_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=229AAXExd44AX8evqed&tn=BOW5gvfStOBSXDSR&_nc_ht=scontent.fccj5-1.fna&oh=0b687fc22641a66086d56b291bf16f70&oe=60F5D804" group-title="Entertainment", NAV MEDIA
 https://gvjyg2n9doem-hls-live.5centscdn.com/navmediastream/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/15781156_1203704509737739_8516477870060243591_n.png?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=GzUmttNanEgAX-e6DUE&_nc_ht=scontent.fcok6-1.fna&oh=5db2f3fa4a8d32db24830ce138a28b15&oe=60E74D8F" group-title="Entertainment", Garshom TV
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.18169-9/15781156_1203704509737739_8516477870060243591_n.png?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=jBClyDj2iDUAX9-6JzO&_nc_ht=scontent.fccj5-1.fna&oh=297491e39fd418c41c70c0dd1d39ff9e&oe=60F5254F" group-title="Entertainment", Garshom TV
 http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t31.18172-8/14138094_1177656518973172_2024659878890514051_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=qLeTnphL5oAAX-K6DSt&tn=BOW5gvfStOBSXDSR&_nc_ht=scontent.fcok6-1.fna&oh=2a119e670a39f776f367c63ce4b6a87b&oe=60E728BB" group-title="Entertainment", Kappa TV
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t31.18172-8/14138094_1177656518973172_2024659878890514051_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=LnMy3Ew1sY0AX8nBBx4&tn=BOW5gvfStOBSXDSR&_nc_ht=scontent.fccj5-1.fna&oh=4227da573465165adb52d15832c8e4d6&oe=60F5007B" group-title="Entertainment", Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/Stream(01)/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/8020.RajyogaMalayalam.in/en/1x1/208x208/test_pic1603378335664.jpg" group-title="Entertainment", Rajyoga Malayalam
@@ -86,7 +86,7 @@ https://m-c050-j2apps.s.llnwi.net/hls/8020.RajyogaMalayalam.in_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnifm6mj09IIvyAbj7ORklE_PR1JaxuLBtLaRZ5i=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", MANGALAM_TV
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86121
 
-#EXTINF: -1 tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/121233631_1696463720531308_2552646404536891514_n.png?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=k8dF3I3zkvIAX8C7nBr&_nc_ht=scontent.fcok6-1.fna&oh=787afc93521e64c076dccb6ed7a63634&oe=60DD27C1" group-title="LOCAL CABLE", Media4channel
+#EXTINF: -1 tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.6435-9/121233631_1696463720531308_2552646404536891514_n.png?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=LpPznw5XfYkAX88W7R0&_nc_ht=scontent.fccj5-1.fna&oh=58c37d95c0aec755bdd92b41477220d0&oe=60F4E2C1" group-title="LOCAL CABLE", Media4
 http://live.singamcloud.in:1935/media4/media4/chunklist_w394846947.m3u8
 
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/942560_638937469467685_1091419437_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=im4hKQvr69gAX8zdyVp&_nc_ht=scontent.fcok6-1.fna&oh=f688f1f35fc80e7c81505ae6cb64ab9f&oe=60DE740C" group-title="LOCAL CABLE", TCV
