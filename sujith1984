@@ -153,8 +153,10 @@ https://suntvvodaf-live.s.llnwi.net:443/SuryaMovies/SuryaMovies.isml/manifest.mp
 https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBO HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14576398_ico.png?ts=1626939302"" group-title="MOVIES", MBO HD
 http://luckonline.eu:8080/17424/cnyzqDETiP/364
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ACV MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjPYdUk0HYtpa58dpCNQmSOwuTLORjh8addZM3R2A=s176-c-k-c0x00ffffff-no-rj" group-title="MOVIES", ACV MOVIES
-http://cdn.asianetmobiletvplus.com/channels/acvmovies_syaxyjhlzbgqqejcduoebaaunnuhbcdq/chunks.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ashru Movies" tvg-logo="https://i.imgur.com/MDrXoHN.jpg" group-title="MOVIES", Ashru Movies
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC6GhSY3JnCEU6Gi6WKLV4kg
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ACV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjPYdUk0HYtpa58dpCNQmSOwuTLORjh8addZM3R2A=s176-c-k-c0x00ffffff-no-rj" group-title="MOVIES", ACV
+https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134229
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malayalam Movie" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14372902_ico.png?ts=1626454109" group-title="MOVIES", Malayalam Movie
 https://yuppmovind.akamaized.net/ymalmov/ymalmov/chunklist_w1886770607.m3u8?dw=60&ud=1015_vodafone_49507208_live_-1_-1&b=100-2500
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rasi Malayalam" tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="MOVIES", Rasi Malayalam
