@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 #EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg" group-title="Entertainment", Asianet HD
 http://livepulse2.uk:8080/88888/99999/273229
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Asianet Middleeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
