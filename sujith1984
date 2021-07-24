@@ -12,7 +12,7 @@ http://46.105.112.116/?watch=R-EX/MALAYALAM_ZEE_KERALAM_HD-in&token=RED&m3u8
 #EXTINF: -1 tvg-id="Mazhavil.Manorama.HD.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png" group-title="Entertainment", Mazhavil Manorama HD
 https://jio.instream.ml/jio.php?c=Mazavali_Manorama_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers" tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="Entertainment", Flowers
-http://ky-iptv.com:25461/kathryn/kathryn/1123250
+https://jio.instream.ml/jio.php?c=Flower_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANAND TV" tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.6435-9/100086833_2690584971211552_2194978706324193280_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=CR27DykJyVMAX9-d0IH&_nc_ht=scontent.fccj5-1.fna&oh=a10f70d1b8d61af017f84a554be2cb5d&oe=60F449B0" group-title="Entertainment", ANAND TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ACV" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/36141_137611736288618_1021438_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=oeo1JJyxE6oAX8jBb5k&_nc_ht=scontent.fcok6-1.fna&oh=ef7ff7491f8bd15e02b96be764693ba0&oe=60E786D2" group-title="Entertainment", ACV Comex
@@ -213,6 +213,8 @@ http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/10527.ts
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/138733.ts
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Willow Sports" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow Sports
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/13141.ts
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jio Cricket English HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="SPORTS", Jio Cricket English HD
+https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.TEN.1.HD.in" tvg-name="Sony Ten 1" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/174092566_100479252189791_8745970493157855245_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kr5s33FeEYMAX9IKgG4&_nc_ht=scontent.fcok6-1.fna&oh=2f4abd2705961b9310730d7703dde9bf&oe=60F77061" group-title="SPORTS", Sony Ten 1
 http://152.89.62.111:8080/88888/99999/311655
 #EXTINF: -1 tvg-id="SONY.TEN.2.HD.in" tvg-name="SONY TEN 2" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="SPORTS", SONY TEN 2
