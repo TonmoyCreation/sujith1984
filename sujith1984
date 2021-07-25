@@ -174,13 +174,13 @@ http://rv.flysat.live:80/307211611126/307211611126/83879
 #EXTINF: -1 tvg-id="Raj.Musix.Malayalam.in" tvg-name="Raj Music Malayalam" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-musix-malayalam-logo-300x300.jpg" group-title="MUSIC", Raj Music Malayalam
 http://152.89.62.111:8080/88888/99999/273222
 #EXTINF: -1 tvg-id="Sun.Music.HD.in" tvg-name="Sun Music HD" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg" group-title="MUSIC", Sun Music HD
-http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86073.ts
+https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rasi Music" tvg-logo="https://1.bp.blogspot.com/-oEHD5NpTQ4A/YBzF8SqJE_I/AAAAAAAAKR8/i3MjFaUe1h8as5W1BhQbRWsTqDN4JiH3QCLcBGAsYHQ/s0/rasi-music.png" group-title="MUSIC", Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF: -1 tvg-id="Isaiaruvi.in" tvg-name="Isai Aruvi" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/72564808_114120749998074_5182337741563625472_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=S-rA4uNsJ98AX_oyK_V&_nc_ht=scontent.fcok6-1.fna&oh=81b8ea55a021a17fc0ac8690c7bdb322&oe=60F73322" group-title="MUSIC", Isai Aruvi
 http://bit.ly/IsaiAruvi
 #EXTINF: -1 tvg-id="MTV.HD+.in" tvg-name="MTV HD +" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-hd-plus-logo-300x300.jpg" group-title="MUSIC", MTV HD +
-http://luckonline.eu:8080/live/17424/cnyzqDETiP/600.ts
+https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="MTV.Beats.HD.in" tvg-name="MTV Beats HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="MUSIC", MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF: -1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/119760904_10157298950830653_5647085208352241554_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=YepphpRpBYUAX8VDNXu&_nc_ht=scontent.fcok6-1.fna&oh=93d96dd8b410b703c79c80b68690de0c&oe=60F7270E" group-title="MUSIC", 9XM
