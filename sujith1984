@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 #EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg" group-title="Entertainment", Asianet HD
 http://212.102.60.40:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Asianet Middleeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
@@ -15,15 +16,13 @@ https://jio.instream.ml/jio.php?c=Mazavali_Manorama_HD&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Flower_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANAND TV" tvg-logo="https://i.imgur.com/ZkIt9uJ.png", ANAND TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ACV" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/36141_137611736288618_1021438_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=oeo1JJyxE6oAX8jBb5k&_nc_ht=scontent.fcok6-1.fna&oh=ef7ff7491f8bd15e02b96be764693ba0&oe=60E786D2" group-title="Entertainment", ACV Comex
-https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134229
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision" tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.18169-9/22222058_256171871571751_7613187455149180628_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kePJA6AWXRwAX9SrpSz&_nc_ht=scontent.fccj5-1.fna&oh=4bb0f7cbccd8a1541d25c412edac2a8c&oe=60F534F7" group-title="Entertainment", Kerala Vision
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision" tvg-logo="https://i.imgur.com/ZJxY5Qx.png" group-title="Entertainment", Kerala Vision
 http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="KERALA VISION 1" tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.18169-9/22222058_256171871571751_7613187455149180628_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kePJA6AWXRwAX9SrpSz&_nc_ht=scontent.fccj5-1.fna&oh=4bb0f7cbccd8a1541d25c412edac2a8c&oe=60F534F7" group-title="Entertainment", KERALA VISION 1
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="KERALA VISION 1" tvg-logo="https://i.imgur.com/ZJxY5Qx.png" group-title="Entertainment", KERALA VISION 1
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
 #EXTINF: -1 tvg-id="Kairali.TV.in" tvg-name="Kairali TV" tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="Entertainment", Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kairali Arabia" tvg-logo="https://scontent.fccj5-1.fna.fbcdn.net/v/t1.18169-9/13434875_1419304661428870_2347942248067090959_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=R89oQCf9N5kAX-YNZhJ&_nc_ht=scontent.fccj5-1.fna&oh=dd79850882ca46ce54e147abb1ca7868&oe=60F48DEC" group-title="Entertainment", Kairali Arabia
+#EXTINF: -1 tvg-id="Kairali.TV.arabia" tvg-name="Kairali Arabia" tvg-logo="https://i.imgur.com/U1BdXQF.jpg" group-title="Entertainment", Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
 #EXTINF: -1 tvg-id="We.TV.in" tvg-name="Kairali We" tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="Entertainment", Kairali We
 http://103.199.161.254/Content/we/Live/Channel(We)/Stream(02)/index.m3u8
