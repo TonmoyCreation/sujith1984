@@ -215,7 +215,7 @@ http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/138733.ts
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/13141.ts
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jio Cricket English HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="SPORTS", Jio Cricket English HD
 https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="SONY.TEN.1.HD.in" tvg-name="Sony Ten 1" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/174092566_100479252189791_8745970493157855245_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kr5s33FeEYMAX9IKgG4&_nc_ht=scontent.fcok6-1.fna&oh=2f4abd2705961b9310730d7703dde9bf&oe=60F77061" group-title="SPORTS", Sony Ten 1
+#EXTINF: -1 tvg-id="SONY.TEN.1.HD.in" tvg-name="Sony Ten 1" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Ten 1
 https://jio.instream.ml/jio.php?c=Ten_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.TEN.2.HD.in" tvg-name="SONY TEN 2" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="SPORTS", SONY TEN 2
 https://jio.instream.ml/jio.php?c=Ten2_HD&q=800&e=.m3u8
