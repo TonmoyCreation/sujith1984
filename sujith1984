@@ -226,9 +226,9 @@ https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_EN.bein" tvg-name="BeIN Sports 1" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS", BeIN Sports 1
 http://212.224.98.207:2200/EX/bein11hd-ar/index.m3u8?token=linksports
-#EXTINF: -1 tvg-id="beIN_SPORTS2_ENGLISH_Digital_EN.bein" tvg-name="BeIN Sports 2" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS", BeIN Sports 2
+#EXTINF: -1 tvg-id="beIN_SPORTS2_ENGLISH_Digital_EN.bein" tvg-name="BeIN Sports 2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS", BeIN Sports 2
 http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=linksports
-#EXTINF: -1 tvg-id="beIN_SPORTS3_ENGLISH_Digital_EN.bein" tvg-name="BeIN Sports 3 Cricket" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS", BeIN Sports 3 Cricket
+#EXTINF: -1 tvg-id="beIN_SPORTS3_ENGLISH_Digital_EN.bein" tvg-name="BeIN Sports 3 Cricket" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS", BeIN Sports 3 Cricket
 http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mono.m3u8?syduliptv
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="HINDI", Sony Max HD
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/49379.ts
