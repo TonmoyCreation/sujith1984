@@ -214,6 +214,8 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
 http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jio Cricket English HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="SPORTS", Jio Cricket English HD
 https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports
+http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=sydul
 #EXTINF: -1 tvg-id="SONY.TEN.1.HD.in" tvg-name="Sony Ten 1" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Ten 1
 https://jio.instream.ml/jio.php?c=Ten_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.TEN.2.HD.in" tvg-name="SONY TEN 2" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="SPORTS", SONY TEN 2
