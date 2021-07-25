@@ -4,7 +4,7 @@ http://212.102.60.40:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Asianet Middleeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
 http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in&token=RED&m3u8
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg" group-title="Entertainment", Asianet Plus
-http://livepulse2.uk:8080/88888/99999/273165
+http://104.218.60.227:83/91595487/07862755/380067.ts
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg" group-title="Entertainment", Surya HD
 https://suntvvodaf-live.s.llnwi.net:443/SuryaTVHD/SuryaTVHD.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Zee.Keralam.HD.in" tvg-name="Zee Keralam HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png" group-title="Entertainment", Zee Keralam HD
