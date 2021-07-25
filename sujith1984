@@ -172,7 +172,7 @@ http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF: -1 tvg-id="Surya.Music.in" tvg-name="Surya Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/SRM.jpg" group-title="MUSIC", Surya Music
 http://rv.flysat.live:80/307211611126/307211611126/83879
 #EXTINF: -1 tvg-id="Raj.Musix.Malayalam.in" tvg-name="Raj Music Malayalam" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-musix-malayalam-logo-300x300.jpg" group-title="MUSIC", Raj Music Malayalam
-http://152.89.62.111:8080/88888/99999/273222
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4731
 #EXTINF: -1 tvg-id="Sun.Music.HD.in" tvg-name="Sun Music HD" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg" group-title="MUSIC", Sun Music HD
 https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rasi Music" tvg-logo="https://1.bp.blogspot.com/-oEHD5NpTQ4A/YBzF8SqJE_I/AAAAAAAAKR8/i3MjFaUe1h8as5W1BhQbRWsTqDN4JiH3QCLcBGAsYHQ/s0/rasi-music.png" group-title="MUSIC", Rasi Music
@@ -216,11 +216,13 @@ http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/13141.ts
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jio Cricket English HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="SPORTS", Jio Cricket English HD
 https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.TEN.1.HD.in" tvg-name="Sony Ten 1" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/174092566_100479252189791_8745970493157855245_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kr5s33FeEYMAX9IKgG4&_nc_ht=scontent.fcok6-1.fna&oh=2f4abd2705961b9310730d7703dde9bf&oe=60F77061" group-title="SPORTS", Sony Ten 1
-http://152.89.62.111:8080/88888/99999/311655
+https://jio.instream.ml/jio.php?c=Ten_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.TEN.2.HD.in" tvg-name="SONY TEN 2" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="SPORTS", SONY TEN 2
-http://152.89.62.111:8080/88888/99999/273023
+https://jio.instream.ml/jio.php?c=Ten2_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-id="SONY.TEN.3.HD.in" tvg-name="SONY TEN 3" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", SONY TEN 3
+https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.SIX.HD.in" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS", Sony Six
-http://209.145.58.109:25461/omohaktv/App/169
+https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="HINDI", Sony Max HD
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/49379.ts
 #EXTINF: -1 tvg-id="STAR.GOLD.HD.in" tvg-name="STAR GOLD HD" tvg-logo="https://www.pinclipart.com/picdir/middle/148-1489919_star-world-logopedia-download-star-gold-channel-logo.png" group-title="HINDI", STAR GOLD HD
