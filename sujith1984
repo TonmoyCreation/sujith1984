@@ -465,7 +465,7 @@ http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Qmax TV Tiruvarur" tvg-logo="https://play-lh.googleusercontent.com/5TustIHU0vxCAra4G3N40F05j0DzZKdbO9y4pjrI4TMndDtue6_XsWCiici2L_pvZ0A=s180-rw" group-title="Tamil Local", Qmax TV Tiruvarur
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
 #EXTINF: -1 tvg-id="SONY.PIX.HD.in" tvg-name="Sony Pix" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png" group-title="ENGLISH MOVIES", Sony Pix
-http://rv.flysat.live:80/307211611126/307211611126/83703
+http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF: -1 tvg-id="FOX.HD.my" tvg-name="Fox HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBzlqyFyFtLU01_CRqL8W0SHIupghHfn8wRkt8dFEetQDjiBPQRiI3BvUM3dwacYGdko&usqp=CAU" group-title="ENGLISH MOVIES", Fox HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
 #EXTINF: -1 tvg-id="FOX.Movies.HD.my" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENGLISH MOVIES", Fox Movies
@@ -473,7 +473,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
 #EXTINF: -1 tvg-id="And.Flix.HD.in" tvg-name="And Flix HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="ENGLISH MOVIES", And Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="AXN.HD.my" tvg-name="AXN HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/82071667_10158521148784252_5648756466761334784_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=lpUGz40MUd8AX_cOHYM&_nc_ht=scontent.fcok6-1.fna&oh=57a2822d740da9ca425b5fe3793228b2&oe=60F68F8F" group-title="ENGLISH MOVIES", AXN HD
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+http://tv.pmcon.net/hls/stream2.m3u8
 #EXTINF: -1 tvg-id="FOX.Action.Movies.HD.my" tvg-name="Fox Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="ENGLISH MOVIES", Fox Action HD
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF: -1 tvg-id="HBO.HD.my" tvg-name="HBO HD" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="ENGLISH MOVIES", HBO HD
