@@ -225,7 +225,7 @@ https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.SIX.HD.in" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS", Sony Six
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="HINDI", Sony Max HD
-http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/49379.ts
+https://jio.instream.ml/jio.php?c=Sony_Max_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="STAR.GOLD.HD.in" tvg-name="STAR GOLD HD" tvg-logo="https://www.pinclipart.com/picdir/middle/148-1489919_star-world-logopedia-download-star-gold-channel-logo.png" group-title="HINDI", STAR GOLD HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="Star.Gold.Select.HD.in" tvg-name="STAR GOLD SELECT" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg" group-title="HINDI", STAR GOLD SELECT
@@ -233,15 +233,15 @@ http://152.89.62.111:8080/88888/99999/311626
 #EXTINF: -1 tvg-id="Star.Gold.2.in" tvg-name="Star Gold 2 HD" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="HINDI", Star Gold 2 HD
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF: -1 tvg-id="Zee.Cinema.HD.in" tvg-name="Zee Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="HINDI", Zee Cinema HD
-http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/52534.ts
+https://jio.instream.ml/jio.php?c=Zee_Cinema_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Colors.Cineplex.HD.in" tvg-name="Rishtey Cineplex" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/107008143_132231505195102_6311504310757135194_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=j-lAPYAtbQEAX_J_6Ov&tn=BOW5gvfStOBSXDSR&_nc_ht=scontent.fcok6-1.fna&oh=c7bd61384414f11c9ac2fa222bb8a556&oe=60F" group-title="HINDI", Rishtey Cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="B4U.Kadak.in" tvg-name="B4U KADAK" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/59299262_685653988535766_1484218591577374720_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vhBezSxQ_UkAX9HN6HR&_nc_ht=scontent.fcok6-1.fna&oh=0c4810f9a7c5e9fa32eda2ac65fb5eb8&oe=60F78310" group-title="HINDI", B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+https://jio.instream.ml/jio.php?c=B4U_Kadak&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="And.pictures.HD.in" tvg-name="& PICTURE" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14105778_ico.png?ts=1626454560" group-title="HINDI", & PICTURE
-http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86185.ts
+https://jio.instream.ml/jio.php?c=And_Pictures_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Colors.HD.in" tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="HINDI", Colors HD
-http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/87281.ts
+https://jio.instream.ml/jio.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="KTV.HD.in" tvg-name="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil", KTV HD
 https://suntvvodaf-live.s.llnwi.net:443/KTVHD/KTVHD.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Star.Vijay.HD.in" tvg-name="Star Vijay HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil", Star Vijay HD
