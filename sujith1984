@@ -498,20 +498,18 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 https://live.neestream.com/neestream_01/mediaone/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="Asianet.News.in" tvg-name="Asianet News" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS", Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
-#EXTINF: -1 tvg-id="Discovery.kids.in" tvg-name="Discovery Kids Malayalam" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/82168979_3002458566442573_50955749697781760_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_ohc=CGsT3L7DiG0AX-Gs9CU&tn=BOW5gvfStOBSXDSR&_nc_ht=scontent.fcok6-1.fna&oh=9b696a2016ff328685316b089d180f5a&oe=60F63" group-title="KIDS", Discovery Kids Malayalam
+#EXTINF: -1 tvg-id="Discovery.kids.in" tvg-name="Discovery Kids Malayalam" tvg-logo="https://i.imgur.com/sicLktH.jpg" group-title="KIDS", Discovery Kids Malayalam
 https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom & Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS", Tom & Jerry
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/111037
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kochu TV" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/12241260_986888898063401_8335637693831359928_n.png?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_ohc=u4EKVc1OBI8AX8KDHjI&_nc_ht=scontent.fcok6-1.fna&oh=81b4b360ec9e201749090b62d5976743&oe=60F64A40" group-title="KIDS", Kochu TV
-http://rv.flysat.live:80/307211611126/307211611126/83890
+#EXTINF: -1 tvg-id="(Kochu.TV.in)" tvg-name="Kochu TV" tvg-logo="https://i.imgur.com/dDr2s5G.jpg" group-title="KIDS", Kochu TV
+https://suntvvodaf-live.s.llnwi.net:443/KochuTV/KochuTV.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Cartoon.Network.in" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS", CARTOON NETWORK
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/3967
+https://jio.instream.ml/jio.php?c=Cartoon_Network_Tamil&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="KIDS",Nick Malayalam
 https://jio.instream.ml/jio.php?c=Nick_Malayalam&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="KIDS",Sonic Malayalam
 https://jio.instream.ml/jio.php?c=Sonic_Malayalam&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="KITE.Victers.in" tvg-name="Kite-Victers" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Education", Kite-Victers
-https://live.wmncdn.net/victers/live.stream/chunks.m3u8
+https://jio.instream.ml/jio.php?c=KITE_Victers&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="Education",Top Tutor
 https://jio.instream.ml/jio.php?c=Top_Tutor&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="Education",TV Teacher
