@@ -190,10 +190,14 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF: -1 tvg-id="Zing.in" tvg-name="ZEE ZING" tvg-logo="https://i.imgur.com/i8cuqiS.png" group-title="MUSIC", ZEE ZING
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF: -1 tvg-id="Zing.in" tvg-name="ZEE ZING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Music_Co..jpg/revision/latest/scale-to-width-down/250?cb=20181004041930" group-title="MUSIC", Zee5 Music
+https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MUSIC INDIA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13871527_ico.png?ts=1626454287" group-title="MUSIC", MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF: -1 tvg-id="B4U.Music.in" tvg-name="B4U Music" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihoG2Ik78RvjQi7hEokUQEkOIljdzQWXTq465Q=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC", B4U Music
 http://luckonline.eu:8080/live/17424/cnyzqDETiP/611.ts
+#EXTINF: -1 tvg-id="Mastiii.in" tvg-name="MASTI" tvg-logo="https://www.drmare.com/images/resource/download-hungama-music.jpg" group-title="MUSIC", Hungama Pop Music
+https://live.hungama.com/linear/pop-pataka/playlist_480p/index.m3u8
 #EXTINF: -1 tvg-id="Mastiii.in" tvg-name="MASTI" tvg-logo="https://i.imgur.com/USZMDlX.jpg" group-title="MUSIC", MAST
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sangeet Bhojpuri" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0432.SangeetBhojpuri.in/en/1x1/208x208/test_pic1552392940661.jpg" group-title="MUSIC", Sangeet Bhojpuri
