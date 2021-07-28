@@ -529,19 +529,19 @@ https://jio.instream.ml/jio.php?c=Animal_Planet_English&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="INFO",History TV18 HD
 https://jio.instream.ml/jio.php?c=History_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CLUB FM UAE" tvg-logo="https://radiosindia.com/images/clubfm.jpg" group-title="RADIO", CLUB FM UAE
-https://23623.live.streamtheworld.com/CLUBFMUAEAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RADIO KERALA" tvg-logo="https://shortfilmsite.com/images/radiokerala.png" group-title="RADIO", RADIO KERALA
-https://node-19.zeno.fm/eez8p9x93qzuv?rj-ttl=5&rj-tok=AAABd68QsrgAZNrymGgNFtt_UQ
+https://www.liveradio.es/http://103.133.180.223:8000/airtime_128
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Radio Mirchi Kochi" tvg-logo="https://radiosindia.com/images/radiomirchi.jpg" group-title="RADIO", Radio Mirchi Kochi
-https://n08.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABd68RQk4An2963Hu_aU-raA
+https://n12.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABeuwpNw8AFXlaBtm2iX_wPA
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="All India Radio Akashvani Malayalam" tvg-logo="https://radiosindia.com/images/air.jpg" group-title="RADIO", All India Radio Akashvani Malayalam
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Radio Asia Malayalam" tvg-logo="https://radiosindia.com/images/radioasiauae.jpg" group-title="RADIO", Radio Asia Malayalam
 https://eu8.fastcast4u.com/proxy/qqyspjqd?mp=/;
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pravasi Bharathi 810AM" tvg-logo="https://radiosindia.com/images/pravasibharathi.jpg" group-title="RADIO", Pravasi Bharathi 810AM
 https://cors.bitwize.com.lb/http://198.27.67.39:8000/pravasiradio.mp3
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="98.6 Malayalam radio" tvg-logo="https://radiosindia.com/images/986malayalamradio.jpg" group-title="RADIO", 98.6 Malayalam radio
-https://node-03.zeno.fm/512rbf1e3qzuv?rj-ttl=5&rj-tok=AAABd68VpwYAm2046fDgpy0Rcw
+https://node-25.zeno.fm/512rbf1e3qzuv?rj-ttl=5&rj-tok=AAABeuwtLl4AGZ2tKA19-EX3eg
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dubai 1 FM Radio" tvg-logo="https://radiosindia.com/images/dubai1fm.jpg" group-title="RADIO", Dubai 1 FM Radio
 https://node-19.zeno.fm/mp9ggm2sywzuv?rj-ttl=5&rj-tok=AAABd68WGO4AsXiWPTyccXU7_g
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CE Talks Radio" tvg-logo="https://radiosindia.com/images/cetalks.jpg" group-title="RADIO", CE Talks Radio
