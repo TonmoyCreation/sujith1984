@@ -195,7 +195,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MUSIC INDIA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13871527_ico.png?ts=1626454287" group-title="MUSIC", MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF: -1 tvg-id="B4U.Music.in" tvg-name="B4U Music" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihoG2Ik78RvjQi7hEokUQEkOIljdzQWXTq465Q=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC", B4U Music
-http://luckonline.eu:8080/live/17424/cnyzqDETiP/611.ts
+http://client-iptvmag.club:8080/zain/zain123/34121
 #EXTINF: -1 tvg-id="Mastiii.in" tvg-name="MASTI" tvg-logo="https://www.drmare.com/images/resource/download-hungama-music.jpg" group-title="MUSIC", Hungama Pop Music
 https://live.hungama.com/linear/pop-pataka/playlist_480p/index.m3u8
 #EXTINF: -1 tvg-id="Mastiii.in" tvg-name="MASTI" tvg-logo="https://i.imgur.com/USZMDlX.jpg" group-title="MUSIC", MAST
@@ -215,7 +215,7 @@ http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF: -1 tvg-id="SkySpCricketHD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://pbs.twimg.com/profile_images/1346184641326309381/u_U_NGy6_400x400.jpg" group-title="SPORTS", Sky Sports Cricket
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/10527.ts
 #EXTINF: -1 tvg-id="SS.CRICKET.za" tvg-name="SUPER SPORTS CRICKET" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="SPORTS", SUPER SPORTS CRICKET
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
+http://client-iptvmag.club:8080/zain/zain123/29932
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Willow Sports" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow Sports
 http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jio Cricket English HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="SPORTS", Jio Cricket English HD
@@ -286,8 +286,8 @@ https://jio.instream.ml/jio.php?c=J_Movies&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Raj_Digital_Plus&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Yupp Thirai" tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png" group-title="Tamil", Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-#EXTINF: -1 tvg-id="Astro.Vellithirai.my" tvg-name="Astro Vellithirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Astro_Vellithirai_2007.png/220px-Astro_Vellithirai_2007.png" group-title="Tamil", Astro Vellithirai
-http://ky-iptv.com:25461/kathryn/kathryn/1400566
+#EXTINF: -1 tvg-id="Astro.Vellithirai.my" tvg-name="ASTRO VINMEEN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14525605_ico.png?ts=1627546391" group-title="Tamil",ASTRO VINMEEN
+http://client-iptvmag.club:8080/zain/zain123/28699
 #EXTINF: -1 tvg-id="Sun.Life.in" tvg-name="Sun Life" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil", Sun Life
 https://suntvvodaf-live.s.llnwi.net:443/SunLife/SunLife.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Kalaignar.TV.in)" tvg-name="Kalaignar Murasu" tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil", Kalaignar Murasu
