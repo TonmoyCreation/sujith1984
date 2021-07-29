@@ -215,9 +215,13 @@ http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF: -1 tvg-id="SkySpCricketHD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://pbs.twimg.com/profile_images/1346184641326309381/u_U_NGy6_400x400.jpg" group-title="SPORTS", Sky Sports Cricket
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/10527.ts
 #EXTINF: -1 tvg-id="SS.CRICKET.za" tvg-name="SUPER SPORTS CRICKET" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="SPORTS", SUPER SPORTS CRICKET
-http://client-iptvmag.club:8080/zain/zain123/29932
+http://www.luckonline.eu:80/17424/cnyzqDETiP/1317
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Willow Sports" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow Sports
-http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
+http://www.luckonline.eu:80/17424/cnyzqDETiP/517
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VmgQ8XH.png" group-title="SPORTS",Willow EXTRA
+http://www.luckonline.eu:80/17424/cnyzqDETiP/2581
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMKUDsG.png" group-title="SPORTS",FOX CRICKET
+http://www.luckonline.eu:80/17424/cnyzqDETiP/1755
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jio Cricket English HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="SPORTS", Jio Cricket English HD
 https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="SPORTS",MI TV
