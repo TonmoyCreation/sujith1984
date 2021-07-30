@@ -226,23 +226,23 @@ http://www.luckonline.eu:80/17424/cnyzqDETiP/1755
 https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="SPORTS",MI TV
 https://jio.instream.ml/jio.php?c=MI_TV&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="SONY.TEN.1.HD.in" tvg-name="Sony Ten 1" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Ten 1
+#EXTINF: -1 tvg-id="SONY.TEN.1.HD.in" tvg-name="Sony Ten 1" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Ten 1 HD
 https://jio.instream.ml/jio.php?c=Ten_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="SONY.TEN.2.HD.in" tvg-name="SONY TEN 2" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="SPORTS", SONY TEN 2
+#EXTINF: -1 tvg-id="SONY.TEN.2.HD.in" tvg-name="SONY TEN 2" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="SPORTS", SONY TEN 2 HD
 https://jio.instream.ml/jio.php?c=Ten2_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="SONY.TEN.3.HD.in" tvg-name="SONY TEN 3" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", SONY TEN 3
+#EXTINF: -1 tvg-id="SONY.TEN.3.HD.in" tvg-name="SONY TEN 3" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", SONY TEN 3 HD
 https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="SONY.SIX.HD.in" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS", Sony Six
+#EXTINF: -1 tvg-id="SONY.SIX.HD.in" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS", Sony Six HD
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HINDI", Sony HD
 https://jio.instream.ml/jio.php?c=Sony_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="HINDI", Sony Max HD
 https://jio.instream.ml/jio.php?c=Sony_Max_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="HINDI",Sony MAX2
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="HINDI",Sony MAX 2
 https://jio.instream.ml/jio.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="STAR.GOLD.HD.in" tvg-name="STAR GOLD HD" tvg-logo="https://www.pinclipart.com/picdir/middle/148-1489919_star-world-logopedia-download-star-gold-channel-logo.png" group-title="HINDI", STAR GOLD HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="Star.Gold.Select.HD.in" tvg-name="STAR GOLD SELECT" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg" group-title="HINDI", STAR GOLD SELECT
+#EXTINF: -1 tvg-id="Star.Gold.Select.HD.in" tvg-name="STAR GOLD SELECT" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg" group-title="HINDI", STAR GOLD SELECT HD
 http://livepulse2.uk:8080/88888/99999/311626
 #EXTINF: -1 tvg-id="Star.Gold.2.in" tvg-name="Star Gold 2 HD" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="HINDI", Star Gold 2 HD
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
