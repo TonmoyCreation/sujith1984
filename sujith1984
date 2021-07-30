@@ -169,7 +169,7 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/chunklist_w304848987.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rasi Movies" tvg-logo="https://1.bp.blogspot.com/-11TSAcAvF1Y/YBzF7ptPNcI/AAAAAAAAKRo/hkrkAIgCe9YJV0aSuawQCDmlVDodlDqngCLcBGAsYHQ/s0/Rasi-Movies.png" group-title="MOVIES", Rasi Movies
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF: -1 tvg-id="Surya.Music.in" tvg-name="Surya Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/SRM.jpg" group-title="MUSIC", Surya Music
-http://rv.flysat.live:80/307211611126/307211611126/83879
+https://suntvvodaf-live.s.llnwi.net:443/SuryaMusic/SuryaMusic.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Raj.Musix.Malayalam.in" tvg-name="Raj Music Malayalam" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-musix-malayalam-logo-300x300.jpg" group-title="MUSIC", Raj Music Malayalam
 https://jio.instream.ml/jio.php?c=Raj_Music_Malayalam&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Sun.Music.HD.in" tvg-name="Sun Music HD" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg" group-title="MUSIC", Sun Music HD
@@ -250,6 +250,8 @@ http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 https://jio.instream.ml/jio.php?c=Box_Cinema&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="HINDI",Bhojpuri Cinema
 https://jio.instream.ml/jio.php?c=Bhojpuri_Cinema&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhojpuri.png" group-title="HINDI",Surya Bhojpuri
+https://jio.instream.ml/jio.php?c=Surya_Bhojpuri&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Zee.Cinema.HD.in" tvg-name="Zee Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="HINDI", Zee Cinema HD
 https://jio.instream.ml/jio.php?c=Zee_Cinema_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="HINDI",Zee Bollywood
@@ -472,8 +474,8 @@ http://nextgeninfotech.ddns.net:8080/akash/akash.m3u8
 http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Qmax TV Tiruvarur" tvg-logo="https://play-lh.googleusercontent.com/5TustIHU0vxCAra4G3N40F05j0DzZKdbO9y4pjrI4TMndDtue6_XsWCiici2L_pvZ0A=s180-rw" group-title="Tamil Local", Qmax TV Tiruvarur
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
-#EXTINF: -1 tvg-id="SONY.PIX.HD.in" tvg-name="Sony Pix IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png" group-title="ENGLISH MOVIES", Sony Pix IN
-http://tv.pmcon.net/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="ENGLISH MOVIES",Sony Pix HD
+https://jio.instream.ml/jio.php?c=Sony_Pix_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="FOX.HD.my" tvg-name="Fox HD MY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBzlqyFyFtLU01_CRqL8W0SHIupghHfn8wRkt8dFEetQDjiBPQRiI3BvUM3dwacYGdko&usqp=CAU" group-title="ENGLISH MOVIES", Fox HD MY
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
 #EXTINF: -1 tvg-id="FOX.Movies.HD.my" tvg-name="Fox Movies HD MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENGLISH MOVIES", Fox Movies HD MY
