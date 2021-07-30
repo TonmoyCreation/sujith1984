@@ -268,8 +268,8 @@ https://jio.instream.ml/jio.php?c=B4U_Kadak&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=B4U_Movies&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="And.pictures.HD.in" tvg-name="& PICTURE" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14105778_ico.png?ts=1626454560" group-title="HINDI", & PICTURE
 https://jio.instream.ml/jio.php?c=And_Pictures_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-name="Astro BollyOne" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14702226_ico.png?ts=1627579470" group-title="HINDI", Astro BollyOne
-https://jio.instream.ml/jio.php?c=Colors_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-name="Astro BollyOne" tvg-logo="https://i.imgur.com/7jxBA4N.png" group-title="HINDI", Astro BollyOne
+http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF: -1 tvg-id="KTV.HD.in" tvg-name="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil", KTV HD
 https://suntvvodaf-live.s.llnwi.net:443/KTVHD/KTVHD.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Star.Vijay.HD.in" tvg-name="Star Vijay HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil", Star Vijay HD
