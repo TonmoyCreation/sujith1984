@@ -24,7 +24,7 @@ http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 #EXTINF: -1 tvg-id="Kairali.TV.arabia" tvg-name="Kairali Arabia" tvg-logo="https://i.imgur.com/U1BdXQF.jpg" group-title="Entertainment", Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
-#EXTINF: -1 tvg-id="We.TV.in" tvg-name="Kairali We" tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="Entertainment", Kairali We
+#EXTINF: -1 tvg-id="We.TV.in" tvg-name="We TV IN" tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="Entertainment", We TV IN
 http://103.199.161.254/Content/we/Live/Channel(We)/Stream(02)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UBL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6LVlDLCZiiHAZKoFya-lm1a4wIZTCBzw73CBnDPDy42JT6VN_5vyaRUoGEe5CDlA_II&usqp=CAU" group-title="Entertainment", UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
@@ -34,7 +34,7 @@ https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 https://5ee50688d7b5d.streamlock.net:444/live/pravasi/chunklist_w685168263.m3u8
 #EXTINF: -1 tvg-id="DD.Malayalam.in" tvg-name="DD Malayalam" tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="Entertainment", DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/index.m3u8
-#EXTINF: -1 tvg-id="Safari.TV.in" tvg-name="Safari" tvg-logo="https://i.imgur.com/w881DVW.png" group-title="Entertainment", Safari
+#EXTINF: -1 tvg-id="Safari.TV.in" tvg-name="Safari TV IN" tvg-logo="https://i.imgur.com/w881DVW.png" group-title="Entertainment", Safari TV IN
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live1/chunks.m3u8
 #EXTINF: -1 tvg-id="Kaumudy.TV.in" tvg-name="Kaumudy TV" tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="Entertainment", Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
@@ -282,7 +282,7 @@ https://jio.instream.ml/jio.php?c=Zee_Tamil&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Jaya_TV_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Colors.Tamil.HD.in" tvg-name="Colors Tamil HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil", Colors Tamil HD
 https://jio.instream.ml/jio.php?c=Colors_Tamil_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="Vijay.Super.in" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil", Vijay Super
+#EXTINF: -1 tvg-id="Vijay.Super.in" tvg-name="Vijay Super IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil", Vijay Super IN
 http://212.224.98.213:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 #EXTINF: -1 tvg-id="J.Movies.in" tvg-name="J Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/J_Movie_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20200121094748" group-title="Tamil", J Movies
 https://jio.instream.ml/jio.php?c=J_Movies&q=800&e=.m3u8
@@ -294,7 +294,7 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 http://client-iptvmag.club:8080/zain/zain123/28699
 #EXTINF: -1 tvg-id="Sun.Life.in" tvg-name="Sun Life" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil", Sun Life
 https://suntvvodaf-live.s.llnwi.net:443/SunLife/SunLife.isml/manifest.mpd
-#EXTINF: -1 tvg-id="Kalaignar.TV.in)" tvg-name="Kalaignar Murasu" tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil", Kalaignar Murasu
+#EXTINF: -1 tvg-id="Kalaignar.TV.in)" tvg-name="Kalaignar TV IN" tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil", Kalaignar TV IN
 https://jio.instream.ml/jio.php?c=Kalaignar_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Astro.Vaanavil.HD.my" tvg-name="Astro Vaanavil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest/scale-to-width-down/250?cb=20200531231529" group-title="Tamil", Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_09.m3u8
@@ -306,7 +306,7 @@ http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittira
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #EXTINF: -1 tvg-id="Makkal.TV.in" tvg-name="Makkal TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng9O_jP6RX0EcVEzT18GnprkvAcwG4VvtXDCwEO=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil", Makkal TV
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF: -1 tvg-id="Adithya.TV.in" tvg-name="Adithya" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil", Adithya
+#EXTINF: -1 tvg-id="Adithya.TV.in" tvg-name="Adithya TV IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil", Adithya TV IN
 https://suntvvodaf-live.s.llnwi.net:443/AdithyaTV/AdithyaTV.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Sirippoli.in" tvg-name="Sirippoli" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Sirippoli_tv.jpg/revision/latest/scale-to-width-down/150?cb=20191224115900" group-title="Tamil", Sirippoli
 http://152.89.62.111:8080/88888/99999/273253
@@ -472,19 +472,19 @@ http://nextgeninfotech.ddns.net:8080/akash/akash.m3u8
 http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Qmax TV Tiruvarur" tvg-logo="https://play-lh.googleusercontent.com/5TustIHU0vxCAra4G3N40F05j0DzZKdbO9y4pjrI4TMndDtue6_XsWCiici2L_pvZ0A=s180-rw" group-title="Tamil Local", Qmax TV Tiruvarur
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
-#EXTINF: -1 tvg-id="SONY.PIX.HD.in" tvg-name="Sony Pix" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png" group-title="ENGLISH MOVIES", Sony Pix
+#EXTINF: -1 tvg-id="SONY.PIX.HD.in" tvg-name="Sony Pix IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png" group-title="ENGLISH MOVIES", Sony Pix IN
 http://tv.pmcon.net/hls/stream1.m3u8
-#EXTINF: -1 tvg-id="FOX.HD.my" tvg-name="Fox HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBzlqyFyFtLU01_CRqL8W0SHIupghHfn8wRkt8dFEetQDjiBPQRiI3BvUM3dwacYGdko&usqp=CAU" group-title="ENGLISH MOVIES", Fox HD
+#EXTINF: -1 tvg-id="FOX.HD.my" tvg-name="Fox HD MY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBzlqyFyFtLU01_CRqL8W0SHIupghHfn8wRkt8dFEetQDjiBPQRiI3BvUM3dwacYGdko&usqp=CAU" group-title="ENGLISH MOVIES", Fox HD MY
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
-#EXTINF: -1 tvg-id="FOX.Movies.HD.my" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENGLISH MOVIES", Fox Movies
+#EXTINF: -1 tvg-id="FOX.Movies.HD.my" tvg-name="Fox Movies HD MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENGLISH MOVIES", Fox Movies HD MY
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
-#EXTINF: -1 tvg-id="And.Flix.HD.in" tvg-name="And Flix HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="ENGLISH MOVIES", And Flix HD
+#EXTINF: -1 tvg-id="And.Flix.HD.in" tvg-name="And Flix IN" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="ENGLISH MOVIES", And Flix IN
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="AXN.HD.my" tvg-name="AXN HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/82071667_10158521148784252_5648756466761334784_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=lpUGz40MUd8AX_cOHYM&_nc_ht=scontent.fcok6-1.fna&oh=57a2822d740da9ca425b5fe3793228b2&oe=60F68F8F" group-title="ENGLISH MOVIES", AXN HD
+#EXTINF: -1 tvg-id="AXN.HD.my" tvg-name="AXN HD MY" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/82071667_10158521148784252_5648756466761334784_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=lpUGz40MUd8AX_cOHYM&_nc_ht=scontent.fcok6-1.fna&oh=57a2822d740da9ca425b5fe3793228b2&oe=60F68F8F" group-title="ENGLISH MOVIES", AXN HD MY
 http://tv.pmcon.net/hls/stream2.m3u8
-#EXTINF: -1 tvg-id="FOX.Action.Movies.HD.my" tvg-name="Fox Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="ENGLISH MOVIES", Fox Action HD
+#EXTINF: -1 tvg-id="FOX.Action.Movies.HD.my" tvg-name="Fox Action HD MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="ENGLISH MOVIES", Fox Action HD MY
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF: -1 tvg-id="HBO.HD.my" tvg-name="HBO HD" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="ENGLISH MOVIES", HBO HD
+#EXTINF: -1 tvg-id="HBO.HD.my" tvg-name="HBO HD MY" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="ENGLISH MOVIES", HBO HD MY
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF: -1 tvg-id="Colors.Infinity.HD.in" tvg-name="Colors INFINITY HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="ENGLISH MOVIES", Colors INFINITY HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86182
@@ -506,9 +506,9 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 https://live.neestream.com/neestream_01/mediaone/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="Asianet.News.in" tvg-name="Asianet News" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS", Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
-#EXTINF: -1 tvg-id="Discovery.kids.in" tvg-name="Discovery Kids Malayalam" tvg-logo="https://i.imgur.com/sicLktH.jpg" group-title="KIDS", Discovery Kids Malayalam
+#EXTINF: -1 tvg-id="Discovery.kids.in" tvg-name="Discovery Kids IN" tvg-logo="https://i.imgur.com/sicLktH.jpg" group-title="KIDS", Discovery Kids IN
 https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
-#EXTINF: -1 tvg-id="(Kochu.TV.in)" tvg-name="Kochu TV" tvg-logo="https://i.imgur.com/dDr2s5G.jpg" group-title="KIDS", Kochu TV
+#EXTINF: -1 tvg-id="(Kochu.TV.in)" tvg-name="Kochu TV IN" tvg-logo="https://i.imgur.com/dDr2s5G.jpg" group-title="KIDS", Kochu TV IN
 https://suntvvodaf-live.s.llnwi.net:443/KochuTV/KochuTV.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Cartoon.Network.in" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS", CARTOON NETWORK
 https://jio.instream.ml/jio.php?c=Cartoon_Network_Tamil&q=800&e=.m3u8
