@@ -212,13 +212,13 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF: -1 tvg-id="Star.Sports.2.HD.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 2
 http://tv.pmcon.net/hls/stream16.m3u8
-#EXTINF: -1 tvg-id="SkySpCricketHD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://pbs.twimg.com/profile_images/1346184641326309381/u_U_NGy6_400x400.jpg" group-title="SPORTS", Sky Sports Cricket
+#EXTINF: -1 tvg-id="SkySpCricketHD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://pbs.twimg.com/profile_images/1346184641326309381/u_U_NGy6_400x400.jpg" group-title="SPORTS", Sky Sports Cricket HD
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/10527.ts
-#EXTINF: -1 tvg-id="SS.CRICKET.za" tvg-name="SUPER SPORTS CRICKET" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="SPORTS", SUPER SPORTS CRICKET
+#EXTINF: -1 tvg-id="SS.CRICKET.za" tvg-name="SUPER SPORTS CRICKET" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="SPORTS", SS CRICKET HD
 http://livepulse2.uk:8080/88888/99999/241131
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Willow Sports" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow Sports
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Willow Sports" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow Sports HD
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2798
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VmgQ8XH.png" group-title="SPORTS",Willow EXTRA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VmgQ8XH.png" group-title="SPORTS",Willow Xtra
 http://livepulse2.uk:8080/88888/99999/249671
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMKUDsG.png" group-title="SPORTS",FOX CRICKET
 http://www.luckonline.eu:80/17424/cnyzqDETiP/1755
@@ -242,9 +242,9 @@ https://jio.instream.ml/jio.php?c=Sony_Max_HD&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="STAR.GOLD.HD.in" tvg-name="STAR GOLD HD" tvg-logo="https://www.pinclipart.com/picdir/middle/148-1489919_star-world-logopedia-download-star-gold-channel-logo.png" group-title="HINDI", STAR GOLD HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="Star.Gold.Select.HD.in" tvg-name="STAR GOLD SELECT" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg" group-title="HINDI", STAR GOLD SELECT HD
+#EXTINF: -1 tvg-id="Star.Gold.Select.HD.in" tvg-name="STAR SELECT HD" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg" group-title="HINDI", STAR SELECT HD
 http://livepulse2.uk:8080/88888/99999/311626
-#EXTINF: -1 tvg-id="Star.Gold.2.in" tvg-name="Star Gold 2 HD" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="HINDI", Star Gold 2 HD
+#EXTINF: -1 tvg-id="Star.Gold.2.in" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="HINDI", Star Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="HINDI",Box Cinema
 https://jio.instream.ml/jio.php?c=Box_Cinema&q=800&e=.m3u8
@@ -268,7 +268,7 @@ https://jio.instream.ml/jio.php?c=B4U_Kadak&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=B4U_Movies&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="And.pictures.HD.in" tvg-name="And Pictures HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14105778_ico.png?ts=1626454560" group-title="HINDI", And Pictures HD
 https://jio.instream.ml/jio.php?c=And_Pictures_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-name="Astro BollyOne" tvg-logo="https://i.imgur.com/7jxBA4N.png" group-title="HINDI", Astro BollyOne
+#EXTINF: -1 tvg-name="Astro BOXOFFICE BOLLYONE HD" tvg-logo="https://i.imgur.com/7jxBA4N.png" group-title="HINDI", Astro BOXOFFICE BOLLYONE HD
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF: -1 tvg-id="KTV.HD.in" tvg-name="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil", KTV HD
 https://suntvvodaf-live.s.llnwi.net:443/KTVHD/KTVHD.isml/manifest.mpd
