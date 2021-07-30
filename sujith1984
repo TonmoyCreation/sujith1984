@@ -272,6 +272,18 @@ https://jio.instream.ml/jio.php?c=B4U_Movies&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=And_Pictures_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-name="Astro BOXOFFICE BOLLYONE HD" tvg-logo="https://i.imgur.com/7jxBA4N.png" group-title="HINDI", Astro BOXOFFICE BOLLYONE HD
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
+#EXTINF: -1 tvg-name="UTV HD" tvg-logo="https://i.imgur.com/Rq9fdZk.jpg" group-title="HINDI", UTV HD
+http://103.157.237.18:8000/play/311
+#EXTINF: -1 tvg-name="UTV ACTION" tvg-logo="https://i.imgur.com/n4pLBwI.png" group-title="HINDI", UTV ACTION
+http://103.157.237.18:8000/play/315
+#EXTINF: -1 tvg-name="UTV MOVIES" tvg-logo="https://i.imgur.com/k0wtkOo.png" group-title="HINDI", UTV MOVIES
+http://103.157.237.18:8000/play/316
+#EXTINF: -1 tvg-name="MINI PLEX" tvg-logo="https://i.imgur.com/HetJ8tc.jpg" group-title="HINDI", MINI PLEX
+http://103.157.237.18:8000/play/326
+#EXTINF: -1 tvg-name="AND XPLOR HD" tvg-logo="https://i.imgur.com/xppkaVt.jpg" group-title="HINDI", AND XPLOR HD
+http://103.157.237.18:8000/play/331
+#EXTINF: -1 tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://i.imgur.com/gdi9IQX.png" group-title="HINDI", MBC BOLLYWOOD HD
+http://103.157.237.18:8000/play/347
 #EXTINF: -1 tvg-id="KTV.HD.in" tvg-name="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil", KTV HD
 https://suntvvodaf-live.s.llnwi.net:443/KTVHD/KTVHD.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Star.Vijay.HD.in" tvg-name="Star Vijay HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil", Star Vijay HD
