@@ -34,7 +34,7 @@ https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 https://5ee50688d7b5d.streamlock.net:444/live/pravasi/chunklist_w685168263.m3u8
 #EXTINF: -1 tvg-id="DD.Malayalam.in" tvg-name="DD Malayalam" tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="Entertainment", DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/index.m3u8
-#EXTINF: -1 tvg-id="Safari.TV.in" tvg-name="Safari TV IN" tvg-logo="https://i.imgur.com/w881DVW.png" group-title="Entertainment", Safari TV IN
+#EXTINF: -1 tvg-id="Safari.TV.in" tvg-name="Safari" tvg-logo="https://i.imgur.com/w881DVW.png" group-title="Entertainment", Safari
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live1/chunks.m3u8
 #EXTINF: -1 tvg-id="Kaumudy.TV.in" tvg-name="Kaumudy TV" tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="Entertainment", Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
@@ -54,7 +54,7 @@ http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f07
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/Stream(01)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rajyoga Malayalam" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8020.RajyogaMalayalam.in/en/1x1/208x208/test_pic1603378335664.jpg" group-title="Entertainment", Rajyoga Malayalam
 https://m-c050-j2apps.s.llnwi.net/hls/8020.RajyogaMalayalam.in_480p/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MANGALAM_TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnifm6mj09IIvyAbj7ORklE_PR1JaxuLBtLaRZ5i=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", MANGALAM_TV
+#EXTINF: -1 tvg-name="MANGALAM TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnifm6mj09IIvyAbj7ORklE_PR1JaxuLBtLaRZ5i=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", MANGALAM TV
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86121
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Entertainment",Janapriyam
 https://jio.instream.ml/jio.php?c=Janapriyam_News&q=800&e=.m3u8
