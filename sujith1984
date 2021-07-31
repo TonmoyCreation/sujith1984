@@ -24,7 +24,7 @@ http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 #EXTINF: -1 tvg-id="Kairali.TV.arabia" tvg-name="Kairali Arabia" tvg-logo="https://i.imgur.com/U1BdXQF.jpg" group-title="Entertainment", Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
-#EXTINF: -1 tvg-id="We.TV.in" tvg-name="We" tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="Entertainment", We
+#EXTINF: -1 tvg-id="We.TV.in" tvg-name="Kairali We" tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="Entertainment", Kairali We
 http://103.199.161.254/Content/we/Live/Channel(We)/Stream(02)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UBL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6LVlDLCZiiHAZKoFya-lm1a4wIZTCBzw73CBnDPDy42JT6VN_5vyaRUoGEe5CDlA_II&usqp=CAU" group-title="Entertainment", UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
