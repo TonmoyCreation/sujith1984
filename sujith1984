@@ -234,13 +234,13 @@ https://jio.instream.ml/jio.php?c=Ten2_HD&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.SIX.HD.in" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS", Sony Six HD
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AriOV6j.jpg" group-title="SPORTS" Bein Sports Max
+#EXTINF:-1 tvg-name="Bein Sports Max" tvg-logo="https://i.imgur.com/AriOV6j.jpg" group-title="SPORTS", Bein Sports Max
 http://livepulse2.uk:8080/88888/99999/290846
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bc41k0v.png" group-title="SPORTS" Bein Sports 1
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://i.imgur.com/bc41k0v.png" group-title="SPORTS", Bein Sports 1
 http://livepulse2.uk:8080/88888/99999/251238
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jjv33pl.png" group-title="SPORTS" Bein Sports 2
+#EXTINF:-1 tvg-name="Bein Sports 2" tvg-logo="https://i.imgur.com/jjv33pl.png" group-title="SPORTS", Bein Sports 2
 http://livepulse2.uk:8080/88888/99999/251239
-#EXTINF:-1 tvg-logo="https://i.imgur.com/suij4su.png" group-title="SPORTS" Bein Sports 3
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://i.imgur.com/suij4su.png" group-title="SPORTS", Bein Sports 3
 http://livepulse2.uk:8080/88888/99999/251253
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HINDI", Sony HD
 https://jio.instream.ml/jio.php?c=Sony_HD&q=800&e=.m3u8
