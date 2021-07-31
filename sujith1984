@@ -547,13 +547,15 @@ https://jio.instream.ml/jio.php?c=TV_Teacher&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Travelxp.in" tvg-name="Travel XP HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/11259613_958261370875015_150879482223296918_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=174925&_nc_ohc=xBDP8LINcVsAX9Fnr6t&_nc_ht=scontent.fcok6-1.fna&oh=57a2be7c9cd741c85f600b0cd179283a&oe=60F701A4" group-title="INFO", Travel XP HD
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id="National.Geographic.HD.in" tvg-name="NAT GEO Wild HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/37010146_10156388043750930_31291834638532608_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=VJzEuOvLjwgAX9pgm_v&_nc_ht=scontent.fcok6-1.fna&oh=c0a71b9a02d477fa42702b3d3a9ef3d9&oe=60F6C3FF" group-title="INFO", NAT GEO Wild HD
-https://bit.ly/wild5g
+http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="SONY.BBC.Earth.HD.in" tvg-name="Sony BBC Earth HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/13934910_1212699908782713_4701609689083750727_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_ohc=zu8mBb84yD8AX9uqu0I&_nc_ht=scontent.fcok6-1.fna&oh=700ce95ef0e1e759b51171f5af1a5402&oe=60F63D1C" group-title="INFO", Sony BBC Earth HD
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Animal.Planet.HD.World.in" tvg-name="Animal Planet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png" group-title="INFO", Animal Planet HD
 http://livepulse2.uk:8080/88888/99999/272933
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="INFO",History TV18 HD
 https://jio.instream.ml/jio.php?c=History_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png" group-title="INFO", 4K Nature
+http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CLUB FM UAE" tvg-logo="https://radiosindia.com/images/clubfm.jpg" group-title="RADIO", CLUB FM UAE
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RADIO KERALA" tvg-logo="https://shortfilmsite.com/images/radiokerala.png" group-title="RADIO", RADIO KERALA
