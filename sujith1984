@@ -511,21 +511,21 @@ http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF: -1 tvg-id="Colors.Infinity.HD.in" tvg-name="Colors INFINITY HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="ENGLISH MOVIES", Colors INFINITY HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86182
 #EXTINF: -1 tvg-id="Janam.TV.in" tvg-name="Janam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Janam_TV_logo.png" group-title="NEWS", Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8
+https://jio.instream.ml/jio.php?c=Janam_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Real News Kerala" tvg-logo="https://realnewskerala.com/wp-content/uploads/2018/04/460x-180-px-org-300x117.png" group-title="NEWS", Real News Kerala
 https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in_360p/index.m3u8
 #EXTINF: -1 tvg-id="Mathrubhumi.News.in" tvg-name="Mathrubhumi News" tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS", Mathrubhumi News
-https://vidgyormedia.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
+https://jio.instream.ml/jio.php?c=Mathrubhumi_News&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Kairali.News.in" tvg-name="Kairali News" tvg-logo="https://i.imgur.com/5wweZXu.png" group-title="NEWS", Kairali News
-http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+https://jio.instream.ml/jio.php?c=Kairali_People_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="News18.Kerala.in" tvg-name="News 18 Kerala" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/news18_kerala-1.png" group-title="NEWS", News 18 Kerala
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
+https://jio.instream.ml/jio.php?c=News_18_Kerala&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Manorama.News.in" tvg-name="Manorama News" tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS", Manorama News
-https://bcovlive-a.akamaihd.net/4850ad1bd94445bfb4fa94732383dead/ap-southeast-1/5574321162001/profile_0/chunklist_dvr.m3u8
+https://jio.instream.ml/jio.php?c=Manorama_News&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="News.24.in" tvg-name="Twenty Four News" tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS", Twenty Four News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+https://jio.instream.ml/jio.php?c=Twenty_Four_News&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Media.One.in" tvg-name="Media One" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS", Media One
-https://live.neestream.com/neestream_01/mediaone/tracks-v1a1/mono.m3u8
+https://jio.instream.ml/jio.php?c=Media_One_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Asianet.News.in" tvg-name="Asianet News" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS", Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
 #EXTINF: -1 tvg-id="Discovery.kids.in" tvg-name="Discovery Kids IN" tvg-logo="https://i.imgur.com/sicLktH.jpg" group-title="KIDS", Discovery Kids IN
