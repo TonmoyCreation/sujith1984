@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 #EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg" group-title="Entertainment", Asianet HD
-http://clientportal.link/GzRwqTpidj92/6fiz8J154/10183
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Asianet Middleeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
+http://livepulse2.uk:8080/88888/99999/273229
+#EXTINF: -1 tvg-name="Asianet Middleeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
 http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in&token=RED&m3u8
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg" group-title="Entertainment", Asianet Plus
-http://85.203.33.88:80/GzRwqTpidj92/6fiz8J154/21537
+http://livepulse2.uk:8080/88888/99999/273165
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg" group-title="Entertainment", Surya HD
 https://suntvvodaf-live.s.llnwi.net:443/SuryaTVHD/SuryaTVHD.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Zee.Keralam.HD.in" tvg-name="Zee Keralam HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png" group-title="Entertainment", Zee Keralam HD
@@ -177,28 +177,28 @@ https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rasi Music" tvg-logo="https://1.bp.blogspot.com/-oEHD5NpTQ4A/YBzF8SqJE_I/AAAAAAAAKR8/i3MjFaUe1h8as5W1BhQbRWsTqDN4JiH3QCLcBGAsYHQ/s0/rasi-music.png" group-title="MUSIC", Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF: -1 tvg-id="Isaiaruvi.in" tvg-name="Isai Aruvi" tvg-logo="https://i.imgur.com/pZzQ6dn.png" group-title="MUSIC", Isai Aruvi
-http://bit.ly/IsaiAruvi
-#EXTINF: -1 tvg-id="MTV.HD+.in" tvg-name="MTV HD +" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-hd-plus-logo-300x300.jpg" group-title="MUSIC", MTV HD +
+http://livepulse2.uk:8080/88888/99999/273163
+#EXTINF: -1 tvg-id="MTV.HD+.in" tvg-name="MTV HD PLUS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-hd-plus-logo-300x300.jpg" group-title="MUSIC", MTV HD PLUS
 https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="MTV.Beats.HD.in" tvg-name="MTV Beats HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="MUSIC", MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF: -1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/119760904_10157298950830653_5647085208352241554_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=YepphpRpBYUAX8VDNXu&_nc_ht=scontent.fcok6-1.fna&oh=93d96dd8b410b703c79c80b68690de0c&oe=60F7270E" group-title="MUSIC", 9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+https://jio.instream.ml/jio.php?c=9XM&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="9X.Jalwa.in" tvg-name="9x Jalwa" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/117391820_3609051475791130_1777277312995063898_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vQAjTUeNwNUAX8jIXpy&_nc_ht=scontent.fcok6-1.fna&oh=0f6596328b8a5ba968262d411fde7a00&oe=60F6D22A" group-title="MUSIC", 9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DIL SE" tvg-logo="https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg" group-title="MUSIC", DIL SE
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF: -1 tvg-id="Zing.in" tvg-name="ZEE ZING" tvg-logo="https://i.imgur.com/i8cuqiS.png" group-title="MUSIC", ZEE ZING
+#EXTINF: -1 tvg-id="Zing.in" tvg-name="ZING" tvg-logo="https://i.imgur.com/i8cuqiS.png" group-title="MUSIC", ZING
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF: -1 tvg-id="Zing.in" tvg-name="ZEE ZING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Music_Co..jpg/revision/latest/scale-to-width-down/250?cb=20181004041930" group-title="MUSIC", Zee5 Music
 https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MUSIC INDIA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13871527_ico.png?ts=1626454287" group-title="MUSIC", MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF: -1 tvg-id="B4U.Music.in" tvg-name="B4U Music" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihoG2Ik78RvjQi7hEokUQEkOIljdzQWXTq465Q=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC", B4U Music
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2866
+https://jio.instream.ml/jio.php?c=B4U_Music&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Mastiii.in" tvg-name="MASTI" tvg-logo="https://www.drmare.com/images/resource/download-hungama-music.jpg" group-title="MUSIC", Hungama Pop Music
 https://live.hungama.com/linear/pop-pataka/playlist_480p/index.m3u8
-#EXTINF: -1 tvg-id="Mastiii.in" tvg-name="MASTI" tvg-logo="https://i.imgur.com/USZMDlX.jpg" group-title="MUSIC", MAST
+#EXTINF: -1 tvg-id="Mastiii.in" tvg-name="Mastiii" tvg-logo="https://i.imgur.com/USZMDlX.jpg" group-title="MUSIC", Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sangeet Bhojpuri" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0432.SangeetBhojpuri.in/en/1x1/208x208/test_pic1552392940661.jpg" group-title="MUSIC", Sangeet Bhojpuri
 https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in_480p/index.m3u8
