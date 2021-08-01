@@ -270,7 +270,7 @@ https://jio.instream.ml/jio.php?c=Zee_Classic&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Zee_Action&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="HINDI",Zee TV HD
 https://jio.instream.ml/jio.php?c=Zee_TV_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="Colors.Cineplex.HD.in" tvg-name="Colors Rishtey Cineplex HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/107008143_132231505195102_6311504310757135194_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=j-lAPYAtbQEAX_J_6Ov&tn=BOW5gvfStOBSXDSR&_nc_ht=scontent.fcok6-1.fna&oh=c7bd61384414f11c9ac2fa222bb8a556&oe=60F" group-title="HINDI", Colors Rishtey Cineplex HD
+#EXTINF: -1 tvg-id="Colors.Cineplex.HD.in" tvg-name="Colors Cineplex HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="HINDI", Colors Cineplex HD
 https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="HINDI",Colors HD
 https://jio.instream.ml/jio.php?c=Colors_HD&q=800&e=.m3u8
