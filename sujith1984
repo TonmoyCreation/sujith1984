@@ -268,6 +268,8 @@ https://jio.instream.ml/jio.php?c=Bhojpuri_Cinema&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Surya_Bhojpuri&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="HINDI",Maha Movies
 https://jio.instream.ml/jio.php?c=Maha_Movies&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="HINDI",Oscar Movies
+https://jio.instream.ml/jio.php?c=Oscar_Movies&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Zee.Cinema.HD.in" tvg-name="Zee Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="HINDI", Zee Cinema HD
 https://jio.instream.ml/jio.php?c=Zee_Cinema_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="HINDI",Zee Bollywood
@@ -546,7 +548,7 @@ https://jio.instream.ml/jio.php?c=Cartoon_Network_Tamil&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Nick_Malayalam&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="KIDS",Sonic Malayalam
 https://jio.instream.ml/jio.php?c=Sonic_Malayalam&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="KITE.Victers.in" tvg-name="Kite-Victers" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Education", Kite-Victers
+#EXTINF: -1 tvg-id="KITE.Victers.in" tvg-name="KITE VICTERS" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Education", KITE VICTERS
 https://jio.instream.ml/jio.php?c=KITE_Victers&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="Education",Top Tutor
 https://jio.instream.ml/jio.php?c=Top_Tutor&q=800&e=.m3u8
@@ -604,3 +606,5 @@ https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodayliv
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
 #EXTINF: -1 tvg-id="ET.NOW.in" tvg-name="ET Now" tvg-logo="https://i.imgur.com/rhkI95a.png" group-title="English News", ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English News",Euro News
+https://jio.instream.ml/jio.php?c=Euro_News&q=800&e=.m3u8
