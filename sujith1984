@@ -178,6 +178,8 @@ https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF: -1 tvg-id="Isaiaruvi.in" tvg-name="Isai Aruvi" tvg-logo="https://i.imgur.com/pZzQ6dn.png" group-title="MUSIC", Isai Aruvi
 http://livepulse2.uk:8080/88888/99999/273163
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="MUSIC",MK Music
+https://jio.instream.ml/jio.php?c=MK_Music&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="MTV.HD+.in" tvg-name="MTV HD PLUS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-hd-plus-logo-300x300.jpg" group-title="MUSIC", MTV HD PLUS
 https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="MTV.Beats.HD.in" tvg-name="MTV Beats HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="MUSIC", MTV Beats HD
@@ -200,6 +202,8 @@ https://jio.instream.ml/jio.php?c=B4U_Music&q=800&e=.m3u8
 https://live.hungama.com/linear/pop-pataka/playlist_480p/index.m3u8
 #EXTINF: -1 tvg-id="Mastiii.in" tvg-name="Mastiii" tvg-logo="https://i.imgur.com/USZMDlX.jpg" group-title="MUSIC", Mastiii
 https://jio.instream.ml/jio.php?c=Mastiii&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="MUSIC",iLove
+https://jio.instream.ml/jio.php?c=iLove&q=800&e=.m3u8
 #EXTINF: -1 tvg-name="Sangeet Bhojpuri" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0432.SangeetBhojpuri.in/en/1x1/208x208/test_pic1552392940661.jpg" group-title="MUSIC", Sangeet Bhojpuri
 https://jio.instream.ml/jio.php?c=Sangeet_Bhojpuri&q=800&e=.m3u8
 #EXTINF: -1 tvg-name="B4U Bhojpuri" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="MUSIC", B4U Bhojpuri
@@ -236,14 +240,10 @@ https://jio.instream.ml/jio.php?c=Ten2_HD&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.SIX.HD.in" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS", Sony Six HD
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-name="Bein Sports Max" tvg-logo="https://i.imgur.com/AriOV6j.jpg" group-title="SPORTS", Bein Sports Max
-http://livepulse2.uk:8080/88888/99999/290846
-#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://i.imgur.com/bc41k0v.png" group-title="SPORTS", Bein Sports 1
-http://livepulse2.uk:8080/88888/99999/251238
-#EXTINF:-1 tvg-name="Bein Sports 2" tvg-logo="https://i.imgur.com/jjv33pl.png" group-title="SPORTS", Bein Sports 2
-http://livepulse2.uk:8080/88888/99999/251239
-#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://i.imgur.com/suij4su.png" group-title="SPORTS", Bein Sports 3
-http://livepulse2.uk:8080/88888/99999/251253
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="SPORTS",Jio Football HD
+https://jio.instream.ml/jio.php?c=Jio_Football&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="SPORTS",Eurosport HD
+https://jio.instream.ml/jio.php?c=Dsports_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HINDI", Sony HD
 https://jio.instream.ml/jio.php?c=Sony_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="HINDI", Sony Max HD
@@ -258,10 +258,16 @@ http://livepulse2.uk:8080/88888/99999/311626
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="HINDI",Box Cinema
 https://jio.instream.ml/jio.php?c=Box_Cinema&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="HINDI",E 24
+https://jio.instream.ml/jio.php?c=E_24&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="HINDI",Enterr 10
+https://jio.instream.ml/jio.php?c=Enterr_10&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="HINDI",Bhojpuri Cinema
 https://jio.instream.ml/jio.php?c=Bhojpuri_Cinema&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhojpuri.png" group-title="HINDI",Surya Bhojpuri
 https://jio.instream.ml/jio.php?c=Surya_Bhojpuri&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="HINDI",Maha Movies
+https://jio.instream.ml/jio.php?c=Maha_Movies&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Zee.Cinema.HD.in" tvg-name="Zee Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="HINDI", Zee Cinema HD
 https://jio.instream.ml/jio.php?c=Zee_Cinema_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="HINDI",Zee Bollywood
@@ -547,15 +553,23 @@ https://jio.instream.ml/jio.php?c=Top_Tutor&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="Education",TV Teacher
 https://jio.instream.ml/jio.php?c=TV_Teacher&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Travelxp.in" tvg-name="Travel XP HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/11259613_958261370875015_150879482223296918_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=174925&_nc_ohc=xBDP8LINcVsAX9Fnr6t&_nc_ht=scontent.fcok6-1.fna&oh=57a2be7c9cd741c85f600b0cd179283a&oe=60F701A4" group-title="INFO", Travel XP HD
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://jio.instream.ml/jio.php?c=Travel_XP_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="National.Geographic.HD.in" tvg-name="NAT GEO Wild HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/37010146_10156388043750930_31291834638532608_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=VJzEuOvLjwgAX9pgm_v&_nc_ht=scontent.fcok6-1.fna&oh=c0a71b9a02d477fa42702b3d3a9ef3d9&oe=60F6C3FF" group-title="INFO", NAT GEO Wild HD
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="SONY.BBC.Earth.HD.in" tvg-name="Sony BBC Earth HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/13934910_1212699908782713_4701609689083750727_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_ohc=zu8mBb84yD8AX9uqu0I&_nc_ht=scontent.fcok6-1.fna&oh=700ce95ef0e1e759b51171f5af1a5402&oe=60F63D1C" group-title="INFO", Sony BBC Earth HD
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="Animal.Planet.HD.World.in" tvg-name="Animal Planet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png" group-title="INFO", Animal Planet HD
-http://livepulse2.uk:8080/88888/99999/272933
+#EXTINF: -1 tvg-id="Animal.Planet.HD.World.in" tvg-name="Animal Planet HD World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png" group-title="INFO", Animal Planet HD World
+https://jio.instream.ml/jio.php?c=Animal_Planet_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="INFO",History TV18 HD
 https://jio.instream.ml/jio.php?c=History_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="INFO",Discovery HD World
+https://jio.instream.ml/jio.php?c=Discovery_HD_World&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="INFO",Epic
+https://jio.instream.ml/jio.php?c=Epic_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="INFO",TLC HD
+https://jio.instream.ml/jio.php?c=TLC_HD_World&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="INFO",Food Food
+https://jio.instream.ml/jio.php?c=Food_Food&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png" group-title="INFO", 4K Nature
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CLUB FM UAE" tvg-logo="https://radiosindia.com/images/clubfm.jpg" group-title="RADIO", CLUB FM UAE
