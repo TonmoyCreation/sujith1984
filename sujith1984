@@ -96,7 +96,7 @@ http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UTV Palakkad" tvg-logo="https://i.imgur.com/rAfX3A1.png" group-title="LOCAL CABLE", UTV Palakkad
 http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malanadu News" tvg-logo="https://malanadunews.com/wp-content/uploads/2021/02/logo_mtv.png" group-title="LOCAL CABLE", Malanadu News
+#EXTINF: -1 tvg-name="Malanadu TV" tvg-logo="https://malanadunews.com/wp-content/uploads/2021/02/logo_mtv.png" group-title="LOCAL CABLE", Malanadu TV
 http://5k8q87bpdy4v-hls-live.wmncdn.net/mtvnews/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MANDRA TV" tvg-logo="https://i.imgur.com/BZKDS0o.jpg" group-title="LOCAL CABLE", MANDRA TV
 http://192.99.2.28/mandra_hls/mandra.m3u8
