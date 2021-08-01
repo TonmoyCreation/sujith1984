@@ -538,9 +538,9 @@ https://jio.instream.ml/jio.php?c=Twenty_Four_News&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Media_One_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="Asianet.News.in" tvg-name="Asianet News" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS", Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
-#EXTINF: -1 tvg-id="Discovery.kids.in" tvg-name="Discovery Kids IN" tvg-logo="https://i.imgur.com/sicLktH.jpg" group-title="KIDS", Discovery Kids IN
+#EXTINF: -1 tvg-id="Discovery.kids.in" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/sicLktH.jpg" group-title="KIDS", Discovery Kids
 https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
-#EXTINF: -1 tvg-id="(Kochu.TV.in)" tvg-name="Kochu TV IN" tvg-logo="https://i.imgur.com/dDr2s5G.jpg" group-title="KIDS", Kochu TV IN
+#EXTINF: -1 tvg-id="(Kochu.TV.in)" tvg-name="KOCHU TV IN" tvg-logo="https://i.imgur.com/dDr2s5G.jpg" group-title="KIDS", KOCHU TV
 https://suntvvodaf-live.s.llnwi.net:443/KochuTV/KochuTV.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Cartoon.Network.in" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS", CARTOON NETWORK
 https://jio.instream.ml/jio.php?c=Cartoon_Network_Tamil&q=800&e=.m3u8
