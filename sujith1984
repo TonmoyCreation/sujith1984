@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 #EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg" group-title="Entertainment", Asianet HD
-https://1445.myindian.tv/edge/19542/index.m3u8?token=48.1.9155.bd82d816cd6567ea4266b9b6c570ac96.1.2.2.961.0.0.68eee1f19aa37911ce2fb9cf673235d2
+https://rebrand.ly/asianetHD
 #EXTINF: -1 tvg-name="Asianet Middleeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
 http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg" group-title="Entertainment", Asianet Plus
