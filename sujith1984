@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 #EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg" group-title="Entertainment", Asianet HD
-https://1445.myindian.tv/edge/19542/index.m3u8?token=48.1.9155.bd82d816cd6567ea4266b9b6c570ac96.1.2.2.961.0.0.68eee1f19aa37911ce2fb9cf673235d2
+http://starshare.live:8080/400505/400505/166
 #EXTINF: -1 tvg-name="Asianet Middleeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
 http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg" group-title="Entertainment", Asianet Plus
 https://rebrand.ly/ASplus
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg" group-title="Entertainment", Surya HD
-http://aromaiptv.net:80/Mahmoud-Gaber/user202020/75250
+http://starshare.live:8080/400505/400505/193
 #EXTINF: -1 tvg-id="Zee.Keralam.HD.in" tvg-name="Zee Keralam HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png" group-title="Entertainment", Zee Keralam HD
 https://zee5-rds.herokuapp.com/?c=0-9-129
 #EXTINF: -1 tvg-id="Mazhavil.Manorama.HD.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png" group-title="Entertainment", Mazhavil Manorama HD
@@ -60,6 +60,8 @@ http://jo123.biz/jweb/m3u8.php?c=Rajyoga_Malayalam&q=800&e=junk.m3u8
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Entertainment",Janapriyam
 http://jo123.biz/jweb/m3u8.php?c=Janapriyam_News&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15993713_ico.png?ts=1634655516" group-title="Entertainment",Magnavision
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist_dvr.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Media4" tvg-logo="https://i.imgur.com/IDwBiPa.png" group-title="LOCAL CABLE", Media4
 http://live.singamcloud.in:1935/media4/media4/chunklist_w394846947.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TCV" tvg-logo="https://i.imgur.com/pYbJTMa.png" group-title="LOCAL CABLE", TCV
