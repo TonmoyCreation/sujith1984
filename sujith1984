@@ -185,7 +185,7 @@ https://jio.instream.ml/jio.php?c=MK_Music&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="MTV.HD+.in" tvg-name="MTV HD PLUS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-hd-plus-logo-300x300.jpg" group-title="MUSIC", MTV HD PLUS
 https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="MTV.Beats.HD.in" tvg-name="MTV Beats HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="MUSIC", MTV Beats HD
-https://jio.instream.ml/jio.php?c=MTV_Beats_HD&q=800&e=.m3u8
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF: -1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/119760904_10157298950830653_5647085208352241554_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=YepphpRpBYUAX8VDNXu&_nc_ht=scontent.fcok6-1.fna&oh=93d96dd8b410b703c79c80b68690de0c&oe=60F7270E" group-title="MUSIC", 9XM
 https://jio.instream.ml/jio.php?c=9XM&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="9X.Jalwa.in" tvg-name="9x Jalwa" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/117391820_3609051475791130_1777277312995063898_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vQAjTUeNwNUAX8jIXpy&_nc_ht=scontent.fcok6-1.fna&oh=0f6596328b8a5ba968262d411fde7a00&oe=60F6D22A" group-title="MUSIC", 9x Jalwa
