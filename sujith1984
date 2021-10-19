@@ -151,11 +151,11 @@ http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="World Net" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14563855_ico.png?ts=1626186166" group-title="LOCAL CABLE", World Net
 http://account16.livebox.co.in/Worldnethls/live.m3u8
 #EXTINF: tvg-name="TIME VISION" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15208105_ico.png?ts=1634656336" group-title="LOCAL CABLE", TIME VISION
-http://185.105.4.245:1935/livesp/kalika/chunklist_w592546197.m3u8
+http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
 #EXTINF: tvg-name="47 Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241248_ico.png?ts=1634656650" group-title="LOCAL CABLE", 47 Channel
 https://5a1178b42cc03.streamlock.net/8168/8168/playlist.m3u8
 #EXTINF: tvg-name="CCV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241287_ico.png?ts=1634656725" group-title="LOCAL CABLE", CCV
-https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/8212/8212/chunklist_w289453709.m3u8
 #EXTINF: tvg-name="Eagle one" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241331_ico.png?ts=1634656782" group-title="LOCAL CABLE", Eagle one
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 #EXTINF: tvg-name="ELGEE VISION" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241340_ico.png?ts=1634656872" group-title="LOCAL CABLE", ELGEE VISION
@@ -179,21 +179,21 @@ https://account2.livebox.co.in/keralabhumitvhls/live.m3u8
 #EXTINF: tvg-name="VISION" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/16049441_ico.png?ts=1634657937" group-title="LOCAL CABLE", VISION 
 http://stream.singamcloud.in:1935/visionchannel/visionchannel/playlist.m3u8
 #EXTINF: tvg-name="GSV" tvg-logo="http://www.vividhaonline.com/gtok/app_dashboard/uploads/products/GSV-Logo.png" group-title="LOCAL CABLE", GSV
-http://137.59.86.218:1935/gsv/gsvlive/chunklist_w1984232266.m3u8
+http://137.59.86.218:1935/gsv/gsvlive/chunklist_w1248425660.m3u8
 #EXTINF: tvg-name="MTN" tvg-logo="http://www.vividhaonline.com/gtok/app_dashboard/uploads/products/mtn.png" group-title="LOCAL CABLE", MTN
 https://5a1178b42cc03.streamlock.net/8234/8234/chunklist_w911796453.m3u8
 #EXTINF: tvg-name="KCN" tvg-logo="http://www.vividhaonline.com/gtok/app_dashboard/uploads/products/KCN.png" group-title="LOCAL CABLE", KCN
 http://185.105.4.245:1935/livesp/kcn/playlist.m3u8
 #EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7400/567400-h" group-title="MOVIES", Asianet Movies
-http://livepulse2.uk:8080/88888/99999/273164
+http://starshare.live:8080/400505/400505/9031
 #EXTINF: -1 tvg-id="Surya.Movies.in" tvg-name="Surya Movies" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="MOVIES", Surya Movies
-http://hottest.fit:8080/itzik/itzik3/26717
+http://starshare.live:8080/400505/400505/9034
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nee Cinema" tvg-logo="https://play-lh.googleusercontent.com/_dw0MnsGwuxRibjmwtwoK9creskL0EOm5VQR_bMe4lpI1QoP-2iXyyCJL8UfqEiIvZM=s360-rw" group-title="MOVIES", Nee Cinema
 https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBO HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14576398_ico.png?ts=1626939302"" group-title="MOVIES", MBO HD
 http://watchindia.net:8880/60275/20486/2156
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ashru Movies" tvg-logo="https://i.imgur.com/MDrXoHN.jpg" group-title="MOVIES", Ashru Movies
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC6GhSY3JnCEU6Gi6WKLV4kg
+#EXTINF: tvg-name="Uthradam Movies" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241040_ico.png?ts=1634658967" group-title="MOVIES", Uthradam Movies
+http://185.105.4.245:1935/livesp/uthradam/chunklist_w1463561544.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ACV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjPYdUk0HYtpa58dpCNQmSOwuTLORjh8addZM3R2A=s176-c-k-c0x00ffffff-no-rj" group-title="MOVIES", ACV
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134229
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Malayalam Movie" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14372902_ico.png?ts=1626454109" group-title="MOVIES", Malayalam Movie
