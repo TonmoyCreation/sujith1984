@@ -128,6 +128,8 @@ https://5d00db0e0fcd5.streamlock.net/7032/7032/chunklist_w649676503.m3u8
 https://5d00db0e0fcd5.streamlock.net/7522/7522/chunklist_w1482865117.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Time TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13865682_ico.png?ts=1626453878" group-title="LOCAL CABLE", Time TV
 https://cloudflare-cdn301.ottpro.in/live/timetv/chunklist_w1198336558.m3u8
+#EXTINF: tvg-name="TIME VISION" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15208105_ico.png?ts=1634656336" group-title="LOCAL CABLE", TIME VISION
+http://185.105.4.245:1935/livesp/kalika/chunklist_w592546197.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="KALIKA TV" tvg-logo="https://i.imgur.com/blJNPmh.png" group-title="LOCAL CABLE", KALIKA TV
 http://185.105.4.245:1935/livesp/kalika/chunklist_w592546197.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="N Vision" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622284783_Nvision.png" group-title="LOCAL CABLE", N Vision
@@ -148,6 +150,40 @@ http://cloud.logicwebs.in:1935/msign/msignmedia_360p/media_w2129775153_136.m3u8
 http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="World Net" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14563855_ico.png?ts=1626186166" group-title="LOCAL CABLE", World Net
 http://account16.livebox.co.in/Worldnethls/live.m3u8
+#EXTINF: tvg-name="TIME VISION" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15208105_ico.png?ts=1634656336" group-title="LOCAL CABLE", TIME VISION
+http://185.105.4.245:1935/livesp/kalika/chunklist_w592546197.m3u8
+#EXTINF: tvg-name="47 Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241248_ico.png?ts=1634656650" group-title="LOCAL CABLE", 47 Channel
+https://5a1178b42cc03.streamlock.net/8168/8168/playlist.m3u8
+#EXTINF: tvg-name="CCV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241287_ico.png?ts=1634656725" group-title="LOCAL CABLE", CCV
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF: tvg-name="Eagle one" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241331_ico.png?ts=1634656782" group-title="LOCAL CABLE", Eagle one
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF: tvg-name="ELGEE VISION" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241340_ico.png?ts=1634656872" group-title="LOCAL CABLE", ELGEE VISION
+https://5a1178b42cc03.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF: tvg-name="Kerala Live" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241350_ico.png?ts=1634656940" group-title="LOCAL CABLE", Kerala Live
+https://5a1178b42cc03.streamlock.net/8110/8110/playlist.m3u8
+#EXTINF: tvg-name="STAR VISION" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241366_ico.png?ts=1634657330" group-title="LOCAL CABLE", STAR VISION
+https://account3.livebox.co.in/creativehls/live.m3u8
+#EXTINF: tvg-name="STARNET" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241378_ico.png?ts=1634657393" group-title="LOCAL CABLE", STARNET
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF: tvg-name="Media 10" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15249641_ico.png?ts=1634657475" group-title="LOCAL CABLE", Media 10
+https://streaming.livebox.co.in/media10hls/live.m3u8
+#EXTINF: tvg-name="CD NEWS" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15255152_ico.png?ts=1634657705" group-title="LOCAL CABLE", CD NEWS
+https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
+#EXTINF: tvg-name="VENAD NEWS" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15328249_ico.png?ts=1634657763" group-title="LOCAL CABLE", VENAD NEWS
+https://5a1178b42cc03.streamlock.net/8222/8222/chunklist_w1264214067.m3u8
+#EXTINF: tvg-name="Vnine" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15484481_ico.png?ts=1634657820" group-title="LOCAL CABLE", Vnine
+https://5a1178b42cc03.streamlock.net/8180/8180/chunklist_w1954188228.m3u8
+#EXTINF: tvg-name="Keralabhoomi" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15841123_ico.png?ts=1634657877" group-title="LOCAL CABLE", Keralabhoomi
+https://account2.livebox.co.in/keralabhumitvhls/live.m3u8
+#EXTINF: tvg-name="VISION" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/16049441_ico.png?ts=1634657937" group-title="LOCAL CABLE", VISION 
+http://stream.singamcloud.in:1935/visionchannel/visionchannel/playlist.m3u8
+#EXTINF: tvg-name="GSV" tvg-logo="http://www.vividhaonline.com/gtok/app_dashboard/uploads/products/GSV-Logo.png" group-title="LOCAL CABLE", GSV
+http://137.59.86.218:1935/gsv/gsvlive/chunklist_w1984232266.m3u8
+#EXTINF: tvg-name="MTN" tvg-logo="http://www.vividhaonline.com/gtok/app_dashboard/uploads/products/mtn.png" group-title="LOCAL CABLE", MTN
+https://5a1178b42cc03.streamlock.net/8234/8234/chunklist_w911796453.m3u8
+#EXTINF: tvg-name="KCN" tvg-logo="http://www.vividhaonline.com/gtok/app_dashboard/uploads/products/KCN.png" group-title="LOCAL CABLE", KCN
+http://185.105.4.245:1935/livesp/kcn/playlist.m3u8
 #EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7400/567400-h" group-title="MOVIES", Asianet Movies
 http://livepulse2.uk:8080/88888/99999/273164
 #EXTINF: -1 tvg-id="Surya.Movies.in" tvg-name="Surya Movies" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="MOVIES", Surya Movies
