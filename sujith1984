@@ -7,13 +7,13 @@ http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg" group-title="Entertainment", Asianet Plus
 https://rebrand.ly/ASplus
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg" group-title="Entertainment", Surya HD
-https://rebrand.ly/suryhd
+http://veganxe.com/delta/falcon/max.php?id=56233484&e=.m3u8
 #EXTINF: -1 tvg-id="Zee.Keralam.HD.in" tvg-name="Zee Keralam HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png" group-title="Entertainment", Zee Keralam HD
 https://zee5-rds.herokuapp.com/?c=0-9-129
 #EXTINF: -1 tvg-id="Mazhavil.Manorama.HD.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png" group-title="Entertainment", Mazhavil Manorama HD
 http://14.199.164.20:4001/play/a0p9/index.m3u8
 #EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers" tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="Entertainment", Flowers
-https://rebrand.ly/flowers1
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANAND TV" tvg-logo="https://i.imgur.com/ZkIt9uJ.png" group-title="Entertainment", ANAND TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id=" tvg-name="Dream TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15533605_ico.png?ts=1634452806" group-title="Entertainment", Dream TV
