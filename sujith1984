@@ -187,7 +187,7 @@ http://185.105.4.245:1935/livesp/kcn/playlist.m3u8
 #EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7400/567400-h" group-title="MOVIES", Asianet Movies
 https://mhdtvworld.co.in/red/abcc.php?id=2893&e=.m3u8
 #EXTINF: -1 tvg-id="Surya.Movies.in" tvg-name="Surya Movies" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="MOVIES", Surya Movies
-http://konnect.pk:8080/live/45120/45120/149117.ts
+http://starshare.live:8080/400505/400505/9034
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nee Cinema" tvg-logo="https://play-lh.googleusercontent.com/_dw0MnsGwuxRibjmwtwoK9creskL0EOm5VQR_bMe4lpI1QoP-2iXyyCJL8UfqEiIvZM=s360-rw" group-title="MOVIES", Nee Cinema
 https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBO HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14576398_ico.png?ts=1626939302"" group-title="MOVIES", MBO HD
@@ -211,53 +211,49 @@ http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF: -1 tvg-id="Surya.Music.in" tvg-name="Surya Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/SRM.jpg" group-title="MUSIC", Surya Music
 https://suntvvodaf-live.s.llnwi.net:443/SuryaMusic/SuryaMusic.isml/manifest.mpd
 #EXTINF: -1 tvg-id="Raj.Musix.Malayalam.in" tvg-name="Raj Music Malayalam" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-musix-malayalam-logo-300x300.jpg" group-title="MUSIC", Raj Music Malayalam
-https://jio.instream.ml/jio.php?c=Raj_Music_Malayalam&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Raj_Music_Malayalam&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Sun.Music.HD.in" tvg-name="Sun Music HD" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg" group-title="MUSIC", Sun Music HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-music-hd&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rasi Music" tvg-logo="https://1.bp.blogspot.com/-oEHD5NpTQ4A/YBzF8SqJE_I/AAAAAAAAKR8/i3MjFaUe1h8as5W1BhQbRWsTqDN4JiH3QCLcBGAsYHQ/s0/rasi-music.png" group-title="MUSIC", Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF: -1 tvg-id="Isaiaruvi.in" tvg-name="Isai Aruvi" tvg-logo="https://i.imgur.com/pZzQ6dn.png" group-title="MUSIC", Isai Aruvi
-http://livepulse2.uk:8080/88888/99999/273163
+http://starshare.live:8080/400505/400505/26165
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="MUSIC",MK Music
-https://jio.instream.ml/jio.php?c=MK_Music&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=MK_Music&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="MTV.HD+.in" tvg-name="MTV HD PLUS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-hd-plus-logo-300x300.jpg" group-title="MUSIC", MTV HD PLUS
-https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=MTV_HD_Plus&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="MTV.Beats.HD.in" tvg-name="MTV Beats HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="MUSIC", MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF: -1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/119760904_10157298950830653_5647085208352241554_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=YepphpRpBYUAX8VDNXu&_nc_ht=scontent.fcok6-1.fna&oh=93d96dd8b410b703c79c80b68690de0c&oe=60F7270E" group-title="MUSIC", 9XM
-https://jio.instream.ml/jio.php?c=9XM&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=9XM&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="9X.Jalwa.in" tvg-name="9x Jalwa" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/117391820_3609051475791130_1777277312995063898_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vQAjTUeNwNUAX8jIXpy&_nc_ht=scontent.fcok6-1.fna&oh=0f6596328b8a5ba968262d411fde7a00&oe=60F6D22A" group-title="MUSIC", 9x Jalwa
-https://jio.instream.ml/jio.php?c=9X_Jalwa&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=9X_Jalwa&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DIL SE" tvg-logo="https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg" group-title="MUSIC", DIL SE
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF: -1 tvg-id="Zing.in" tvg-name="ZING" tvg-logo="https://i.imgur.com/i8cuqiS.png" group-title="MUSIC", ZING
-https://jio.instream.ml/jio.php?c=Zing&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Zing&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Zing.in" tvg-name="ZEE 5 MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Music_Co..jpg/revision/latest/scale-to-width-down/250?cb=20181004041930" group-title="MUSIC", Zee5 Music
 https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
 #EXTINF: -1 tvg-name="MUSIC INDIA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13871527_ico.png?ts=1626454287" group-title="MUSIC", MUSIC INDIA
-https://jio.instream.ml/jio.php?c=Music_India&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Music_India&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="B4U.Music.in" tvg-name="B4U Music" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihoG2Ik78RvjQi7hEokUQEkOIljdzQWXTq465Q=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC", B4U Music
-https://jio.instream.ml/jio.php?c=B4U_Music&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=B4U_Music&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Mastiii.in" tvg-name="MASTI" tvg-logo="https://www.drmare.com/images/resource/download-hungama-music.jpg" group-title="MUSIC", Hungama Pop Music
 https://live.hungama.com/linear/pop-pataka/playlist_480p/index.m3u8
 #EXTINF: -1 tvg-id="Mastiii.in" tvg-name="Mastiii" tvg-logo="https://i.imgur.com/USZMDlX.jpg" group-title="MUSIC", Mastiii
-https://jio.instream.ml/jio.php?c=Mastiii&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Mastiii&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="MUSIC",iLove
-https://jio.instream.ml/jio.php?c=iLove&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=iLove&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-name="Sangeet Bhojpuri" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0432.SangeetBhojpuri.in/en/1x1/208x208/test_pic1552392940661.jpg" group-title="MUSIC", Sangeet Bhojpuri
-https://jio.instream.ml/jio.php?c=Sangeet_Bhojpuri&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sangeet_Bhojpuri&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-name="B4U Bhojpuri" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="MUSIC", B4U Bhojpuri
-https://jio.instream.ml/jio.php?c=B4U_Bhojpuri&q=800&e=.m3u8
-#EXTINF: -1 tvg-name="Channel V HD" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg" group-title="MUSIC", Channel V HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
+http://jo123.biz/jweb/m3u8.php?c=B4U_Bhojpuri&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-name="1HD Music" tvg-logo="https://i.imgur.com/c4SQlg3.jpg" group-title="MUSIC", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF: -1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSIC", 1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF: -1 tvg-name="RU.TV" tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="MUSIC", RU.TV
 https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
-#EXTINF: -1 tvg-name="VH1" tvg-logo="https://i.imgur.com/aPeUbKr.png" group-title="MUSIC", VH1
-https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
 #EXTINF: -1 tvg-id="Star.Sports.1.HD.in" tvg-name="STAR SPORTS 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS 1
 http://nicefly.xyz:80/h21041003/651032140/246218
 #EXTINF: -1 tvg-id="Star.Sports.2.HD.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 2
