@@ -11,7 +11,7 @@ https://rebrand.ly/suryhd
 #EXTINF: -1 tvg-id="Zee.Keralam.HD.in" tvg-name="Zee Keralam HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png" group-title="Entertainment", Zee Keralam HD
 https://zee5-rds.herokuapp.com/?c=0-9-129
 #EXTINF: -1 tvg-id="Mazhavil.Manorama.HD.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png" group-title="Entertainment", Mazhavil Manorama HD
-http://istreamiptv.xyz/Mazhavil_Manorama.m3u8
+http://14.199.164.20:4001/play/a0p9/index.m3u8
 #EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers" tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="Entertainment", Flowers
 https://rebrand.ly/flowers1
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANAND TV" tvg-logo="https://i.imgur.com/ZkIt9uJ.png" group-title="Entertainment", ANAND TV
