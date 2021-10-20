@@ -263,11 +263,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/30
 #EXTINF: -1 tvg-id="SkySpCricketHD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://pbs.twimg.com/profile_images/1346184641326309381/u_U_NGy6_400x400.jpg" group-title="SPORTS", Sky Sports Cricket HD
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/10527.ts
 #EXTINF: -1 tvg-id="SS.CRICKET.za" tvg-name="SUPER SPORTS CRICKET" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="SPORTS", SS CRICKET HD
-http://iptvtree.net:8080/Ainamanja/6a4fef36/157565
-#EXTINF: -1 tvg-name="Willow Sports" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow HD
-http://iptvtree.net:8080/Ainamanja/6a4fef36/165776
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VmgQ8XH.png" group-title="SPORTS",Willow Xtra
-http://starshare.live:8080/400505/400505/5040
+http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jio Cricket English HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="SPORTS", Jio Cricket English HD
 http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="SPORTS",MI TV
@@ -550,6 +546,8 @@ https://jio.instream.ml/jio.php?c=Sony_Pix_HD&q=800&e=.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
 #EXTINF: -1 tvg-id="FOX.Movies.HD.my" tvg-name="Fox Movies HD MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENGLISH MOVIES", Fox Movies HD MY
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
+#EXTINF: -1 tvg-id="STAR MOVIES" tvg-name="STAR MOVIES" tvg-logo="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASTAR_Movies_logo.svg&psig=AOvVaw3lrx4HVz4onUTQpQBShOxj&ust=1634838115729000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCErdvE2fMCFQAAAAAdAAAAABAD" group-title="ENGLISH MOVIES", STAR MOVIES HD
+https://raw.githubusercontent.com/naveenland4/nammooorutv/main/live01.m3u8
 #EXTINF: -1 tvg-id="And.Flix.HD.in" tvg-name="And Flix IN" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="ENGLISH MOVIES", And Flix IN
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="AXN.HD.my" tvg-name="AXN HD MY" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/82071667_10158521148784252_5648756466761334784_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=lpUGz40MUd8AX_cOHYM&_nc_ht=scontent.fcok6-1.fna&oh=57a2822d740da9ca425b5fe3793228b2&oe=60F68F8F" group-title="ENGLISH MOVIES", AXN HD MY
