@@ -281,105 +281,85 @@ http://jo123.biz/jweb/m3u8.php?c=Jio_Football&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="SPORTS",Eurosport HD
 http://jo123.biz/jweb/m3u8.php?c=Dsports_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HINDI", Sony HD
-https://jio.instream.ml/jio.php?c=Sony_HD&q=800&e=.m3u8
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="HINDI", Sony Max HD
-https://jio.instream.ml/jio.php?c=Sony_Max_HD&q=800&e=.m3u8
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="HINDI",Sony MAX 2
-https://jio.instream.ml/jio.php?c=Sony_MAX2&q=800&e=.m3u8
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-id="STAR.GOLD.HD.in" tvg-name="STAR GOLD HD" tvg-logo="https://www.pinclipart.com/picdir/middle/148-1489919_star-world-logopedia-download-star-gold-channel-logo.png" group-title="HINDI", STAR GOLD HD
-http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF: -1 tvg-id="Star.Gold.Select.HD.in" tvg-name="STAR SELECT HD" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg" group-title="HINDI", STAR SELECT HD
-http://livepulse2.uk:8080/88888/99999/311626
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/13
 #EXTINF: -1 tvg-id="Star.Gold.2.in" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="HINDI", Star Gold 2
-http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/178
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="HINDI",Box Cinema
-https://jio.instream.ml/jio.php?c=Box_Cinema&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Box_Cinema&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="HINDI",E 24
-https://jio.instream.ml/jio.php?c=E_24&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=E_24&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="HINDI",Enterr 10
-https://jio.instream.ml/jio.php?c=Enterr_10&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Enterr_10&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="HINDI",Bhojpuri Cinema
-https://jio.instream.ml/jio.php?c=Bhojpuri_Cinema&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Bhojpuri_Cinema&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhojpuri.png" group-title="HINDI",Surya Bhojpuri
-https://jio.instream.ml/jio.php?c=Surya_Bhojpuri&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Surya_Bhojpuri&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="HINDI",Maha Movies
-https://jio.instream.ml/jio.php?c=Maha_Movies&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Maha_Movies&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="HINDI",Oscar Movies
-https://jio.instream.ml/jio.php?c=Oscar_Movies&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Osar_Movies&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Zee.Cinema.HD.in" tvg-name="Zee Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="HINDI", Zee Cinema HD
-https://jio.instream.ml/jio.php?c=Zee_Cinema_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Zee_Cinema_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="HINDI",Zee Bollywood
-https://jio.instream.ml/jio.php?c=Zee_Classic&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Zee_Classic&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="HINDI",Zee Action
-https://jio.instream.ml/jio.php?c=Zee_Action&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Zee_Action&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="HINDI",Zee TV HD
-https://jio.instream.ml/jio.php?c=Zee_TV_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Zee_TV_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Colors.Cineplex.HD.in" tvg-name="Colors Cineplex HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="HINDI", Colors Cineplex HD
-https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="HINDI",Colors HD
-https://jio.instream.ml/jio.php?c=Colors_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Colors_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="B4U.Kadak.in" tvg-name="B4U KADAK" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/59299262_685653988535766_1484218591577374720_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vhBezSxQ_UkAX9HN6HR&_nc_ht=scontent.fcok6-1.fna&oh=0c4810f9a7c5e9fa32eda2ac65fb5eb8&oe=60F78310" group-title="HINDI", B4U KADAK
-https://jio.instream.ml/jio.php?c=B4U_Kadak&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=B4U_Kadak&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="HINDI",B4U Movies
-https://jio.instream.ml/jio.php?c=B4U_Movies&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=B4U_Movies&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="And.pictures.HD.in" tvg-name="And Pictures HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14105778_ico.png?ts=1626454560" group-title="HINDI", And Pictures HD
-https://jio.instream.ml/jio.php?c=And_Pictures_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=And_Pictures_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-name="Astro BOXOFFICE BOLLYONE HD" tvg-logo="https://i.imgur.com/7jxBA4N.png" group-title="HINDI", Astro BOXOFFICE BOLLYONE HD
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF: -1 tvg-name="UTV HD" tvg-logo="https://i.imgur.com/Rq9fdZk.jpg" group-title="HINDI", UTV HD
-http://103.157.237.18:8000/play/311
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/76
 #EXTINF: -1 tvg-name="UTV ACTION" tvg-logo="https://i.imgur.com/n4pLBwI.png" group-title="HINDI", UTV ACTION
-http://103.157.237.18:8000/play/315
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/61
 #EXTINF: -1 tvg-name="UTV MOVIES" tvg-logo="https://i.imgur.com/k0wtkOo.png" group-title="HINDI", UTV MOVIES
-http://103.157.237.18:8000/play/316
-#EXTINF: -1 tvg-name="MINI PLEX" tvg-logo="https://i.imgur.com/HetJ8tc.jpg" group-title="HINDI", MINI PLEX
-http://103.157.237.18:8000/play/326
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/148
 #EXTINF: -1 tvg-name="AND XPLOR HD" tvg-logo="https://i.imgur.com/xppkaVt.jpg" group-title="HINDI", AND XPLOR HD
-http://103.157.237.18:8000/play/331
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/107
 #EXTINF: -1 tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://i.imgur.com/gdi9IQX.png" group-title="HINDI", MBC BOLLYWOOD HD
-http://103.157.237.18:8000/play/347
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF: -1 tvg-id="KTV.HD.in" tvg-name="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil", KTV HD
-https://moviefive.xyz/Sunnxt/Live/KTVHD.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/87
 #EXTINF: -1 tvg-id="Star.Vijay.HD.in" tvg-name="Star Vijay HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil", Star Vijay HD
-http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/12
 #EXTINF: -1 tvg-id="Sun.TV.HD.in" tvg-name="Sun TV HD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil", Sun TV HD
-https://moviefive.xyz/Sunnxt/Live/SunTVHDLIVE.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/85
 #EXTINF: -1 tvg-id="Zee.Tamil.HD.in" tvg-name="Zee Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil", Zee Tamil
 https://snehz5tvnew.herokuapp.com?c=0-9-zeetamil
 #EXTINF: -1 tvg-id="Jaya.TV.HD.in" tvg-name="Jaya TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil", Jaya TV HD
-https://moviefive.xyz/Yupptv/JayaTV.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/66
 #EXTINF: -1 tvg-id="Colors.Tamil.HD.in" tvg-name="Colors Tamil HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil", Colors Tamil HD
-https://jio.instream.ml/jio.php?c=Colors_Tamil_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Vijay.Super.in" tvg-name="Vijay Super IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil", Vijay Super IN
-http://royall.xyz:2082/6949003927915110/1y7gicb9l086jhc/46868
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/18
 #EXTINF: -1 tvg-id="J.Movies.in" tvg-name="J Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/J_Movie_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20200121094748" group-title="Tamil", J Movies
-https://jio.instream.ml/jio.php?c=J_Movies&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=J_Movies&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Raj.Digital.Plus.in" tvg-name="Raj Digital Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/235?cb=20191231195635" group-title="Tamil", Raj Digital Plus
-https://jio.instream.ml/jio.php?c=Raj_Digital_Plus&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Raj_Digital_Plus&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Yupp Thirai" tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png" group-title="Tamil", Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-#EXTINF: -1 tvg-id="Astro.Vellithirai.my" tvg-name="ASTRO VINMEEN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14525605_ico.png?ts=1627546391" group-title="Tamil",ASTRO VINMEEN
-http://client-iptvmag.club:8080/zain/zain123/28699
 #EXTINF: -1 tvg-id="Sun.Life.in" tvg-name="Sun Life" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil", Sun Life
-https://suntvvodaf-live.s.llnwi.net:443/SunLife/SunLife.isml/manifest.mpd
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/153
 #EXTINF: -1 tvg-id="Kalaignar.TV.in)" tvg-name="Kalaignar TV IN" tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" group-title="Tamil", Kalaignar TV IN
-https://jio.instream.ml/jio.php?c=Kalaignar_TV&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="Astro.Vaanavil.HD.my" tvg-name="Astro Vaanavil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest/scale-to-width-down/250?cb=20200531231529" group-title="Tamil", Astro Vaanavil
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_09.m3u8
-#EXTINF: -1 tvg-id="DD.Podhigai.in" tvg-name="DD Podhigai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/DD_Podhigai.png/revision/latest/scale-to-width-down/195?cb=20190725130439" group-title="Tamil", DD Podhigai
-https://jio.instream.ml/jio.php?c=DD5_Podhigai&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kalaignar Chithiram" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chithiram_tv_logo.jpg" group-title="Tamil", Kalaignar Chithiram
-http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tamilan TV" tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Tamil", Tamilan TV
-http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
-#EXTINF: -1 tvg-id="Makkal.TV.in" tvg-name="Makkal TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng9O_jP6RX0EcVEzT18GnprkvAcwG4VvtXDCwEO=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil", Makkal TV
-http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF: -1 tvg-id="Adithya.TV.in" tvg-name="Adithya TV IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil", Adithya TV IN
-https://suntvvodaf-live.s.llnwi.net:443/AdithyaTV/AdithyaTV.isml/manifest.mpd
-#EXTINF: -1 tvg-id="Sirippoli.in" tvg-name="Sirippoli" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Sirippoli_tv.jpg/revision/latest/scale-to-width-down/150?cb=20191224115900" group-title="Tamil", Sirippoli
-http://152.89.62.111:8080/88888/99999/273253
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="IBC Pagadi" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil", IBC Pagadi
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Kalaignar_TV&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HD Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeE8LQM86kfEGOnrdim-sgPyUHiS4_jQj8w&usqp=CAU" group-title="Tamil", HD Tamil
 https://live.hdtamiltv.ca/live/hdv/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tamil TV" tvg-logo="https://play-lh.googleusercontent.com/SX_2a2oSgSCXuoayomAeZI2EZImFk2i7l8eDYKUC-G-C6It33SYe9bcqcIhpd25lcuc=s180-rw" group-title="Tamil", Tamil TV
@@ -541,75 +521,71 @@ http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Qmax TV Tiruvarur" tvg-logo="https://play-lh.googleusercontent.com/5TustIHU0vxCAra4G3N40F05j0DzZKdbO9y4pjrI4TMndDtue6_XsWCiici2L_pvZ0A=s180-rw" group-title="Tamil Local", Qmax TV Tiruvarur
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="ENGLISH MOVIES",Sony Pix HD
-https://jio.instream.ml/jio.php?c=Sony_Pix_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="FOX.HD.my" tvg-name="Fox HD MY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBzlqyFyFtLU01_CRqL8W0SHIupghHfn8wRkt8dFEetQDjiBPQRiI3BvUM3dwacYGdko&usqp=CAU" group-title="ENGLISH MOVIES", Fox HD MY
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
-#EXTINF: -1 tvg-id="FOX.Movies.HD.my" tvg-name="Fox Movies HD MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENGLISH MOVIES", Fox Movies HD MY
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="STAR MOVIES" tvg-name="STAR MOVIES" tvg-logo="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASTAR_Movies_logo.svg&psig=AOvVaw3lrx4HVz4onUTQpQBShOxj&ust=1634838115729000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCErdvE2fMCFQAAAAAdAAAAABAD" group-title="ENGLISH MOVIES", STAR MOVIES HD
 https://raw.githubusercontent.com/naveenland4/nammooorutv/main/live01.m3u8
 #EXTINF: -1 tvg-id="And.Flix.HD.in" tvg-name="And Flix IN" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="ENGLISH MOVIES", And Flix IN
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/54
 #EXTINF: -1 tvg-id="AXN.HD.my" tvg-name="AXN HD MY" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/82071667_10158521148784252_5648756466761334784_n.png?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=lpUGz40MUd8AX_cOHYM&_nc_ht=scontent.fcok6-1.fna&oh=57a2822d740da9ca425b5fe3793228b2&oe=60F68F8F" group-title="ENGLISH MOVIES", AXN HD MY
-http://tv.pmcon.net/hls/stream2.m3u8
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 #EXTINF: -1 tvg-id="FOX.Action.Movies.HD.my" tvg-name="Fox Action HD MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="ENGLISH MOVIES", Fox Action HD MY
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+http://45.236.175.23:8000/play/a00g
 #EXTINF: -1 tvg-id="HBO.HD.my" tvg-name="HBO HD MY" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="ENGLISH MOVIES", HBO HD MY
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+http://45.236.175.23:8000/play/a02d
 #EXTINF: -1 tvg-id="Colors.Infinity.HD.in" tvg-name="Colors INFINITY HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="ENGLISH MOVIES", Colors INFINITY HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/86182
+http://jo123.biz/jweb/m3u8.php?c=Colors_Infinity_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Janam.TV.in" tvg-name="Janam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Janam_TV_logo.png" group-title="NEWS", Janam TV
-https://jio.instream.ml/jio.php?c=Janam_TV&q=800&e=.m3u8
+https://live.neestream.net/neestream_01/janamtv/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Real News Kerala" tvg-logo="https://realnewskerala.com/wp-content/uploads/2018/04/460x-180-px-org-300x117.png" group-title="NEWS", Real News Kerala
-https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in_360p/index.m3u8
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="Mathrubhumi.News.in" tvg-name="Mathrubhumi News" tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS", Mathrubhumi News
-https://jio.instream.ml/jio.php?c=Mathrubhumi_News&q=800&e=.m3u8
+https://live.neestream.net/neestream_01/mathrubhuminews/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF: -1 tvg-id="Kairali.News.in" tvg-name="Kairali News" tvg-logo="https://i.imgur.com/5wweZXu.png" group-title="NEWS", Kairali News
-https://jio.instream.ml/jio.php?c=Kairali_People_TV&q=800&e=.m3u8
+https://live.neestream.net/neestream_01/kairalinews/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF: -1 tvg-id="News18.Kerala.in" tvg-name="News 18 Kerala" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/news18_kerala-1.png" group-title="NEWS", News 18 Kerala
-https://jio.instream.ml/jio.php?c=News_18_Kerala&q=800&e=.m3u8
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
 #EXTINF: -1 tvg-id="Manorama.News.in" tvg-name="Manorama News" tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS", Manorama News
-https://jio.instream.ml/jio.php?c=Manorama_News&q=800&e=.m3u8
+https://mmtvlive1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign1/index.m3u8
 #EXTINF: -1 tvg-id="News.24.in" tvg-name="Twenty Four News" tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS", Twenty Four News
-https://jio.instream.ml/jio.php?c=Twenty_Four_News&q=800&e=.m3u8
+http://103.199.160.85/Content/24news/Live/Channel(24news)/Stream(01)/index.m3u8
 #EXTINF: -1 tvg-id="Media.One.in" tvg-name="Media One" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS", Media One
-https://jio.instream.ml/jio.php?c=Media_One_TV&q=800&e=.m3u8
+https://live.neestream.net/neestream_01/mediaone/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF: -1 tvg-id="Asianet.News.in" tvg-name="Asianet News" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS", Asianet News
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
+https://live.neestream.net/neestream_01/asianetnews/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF: -1 tvg-id="Discovery.kids.in" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/sicLktH.jpg" group-title="KIDS", Discovery Kids
-https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
+https://idvd.multitvsolution.com/idvo/discoverykidseng.m3u8
 #EXTINF: -1 tvg-id="(Kochu.TV.in)" tvg-name="KOCHU TV IN" tvg-logo="https://i.imgur.com/dDr2s5G.jpg" group-title="KIDS", KOCHU TV
-https://suntvvodaf-live.s.llnwi.net:443/KochuTV/KochuTV.isml/manifest.mpd
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/286
 #EXTINF: -1 tvg-id="Cartoon.Network.in" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS", CARTOON NETWORK
-https://jio.instream.ml/jio.php?c=Cartoon_Network_Tamil&q=800&e=.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/179
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="KIDS",Nick Malayalam
-https://jio.instream.ml/jio.php?c=Nick_Malayalam&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Nick_Malayalam&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="KIDS",Sonic Malayalam
-https://jio.instream.ml/jio.php?c=Sonic_Malayalam&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sonic_Malayalam&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="KITE.Victers.in" tvg-name="KITE VICTERS" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Education", KITE VICTERS
-https://jio.instream.ml/jio.php?c=KITE_Victers&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=KITE_Victers&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="Education",Top Tutor
-https://jio.instream.ml/jio.php?c=Top_Tutor&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Top_Tutor&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="Education",TV Teacher
-https://jio.instream.ml/jio.php?c=TV_Teacher&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=TV_Teacher&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Travelxp.in" tvg-name="Travel XP HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/11259613_958261370875015_150879482223296918_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=174925&_nc_ohc=xBDP8LINcVsAX9Fnr6t&_nc_ht=scontent.fcok6-1.fna&oh=57a2be7c9cd741c85f600b0cd179283a&oe=60F701A4" group-title="INFO", Travel XP HD
-https://jio.instream.ml/jio.php?c=Travel_XP_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Travel_XP_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="National.Geographic.HD.in" tvg-name="NAT GEO Wild HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.6435-9/37010146_10156388043750930_31291834638532608_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=VJzEuOvLjwgAX9pgm_v&_nc_ht=scontent.fcok6-1.fna&oh=c0a71b9a02d477fa42702b3d3a9ef3d9&oe=60F6C3FF" group-title="INFO", NAT GEO Wild HD
-http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/90
 #EXTINF: -1 tvg-id="SONY.BBC.Earth.HD.in" tvg-name="Sony BBC Earth HD" tvg-logo="https://scontent.fcok6-1.fna.fbcdn.net/v/t1.18169-9/13934910_1212699908782713_4701609689083750727_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_ohc=zu8mBb84yD8AX9uqu0I&_nc_ht=scontent.fcok6-1.fna&oh=700ce95ef0e1e759b51171f5af1a5402&oe=60F63D1C" group-title="INFO", Sony BBC Earth HD
-https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Animal.Planet.HD.World.in" tvg-name="Animal Planet HD World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png" group-title="INFO", Animal Planet HD World
-https://jio.instream.ml/jio.php?c=Animal_Planet_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="INFO",History TV18 HD
-https://jio.instream.ml/jio.php?c=History_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=History_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="INFO",Discovery HD World
-https://jio.instream.ml/jio.php?c=Discovery_HD_World&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="INFO",Epic
-https://jio.instream.ml/jio.php?c=Epic_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Epic_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="INFO",TLC HD
-https://jio.instream.ml/jio.php?c=TLC_HD_World&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=TLC_HD_World&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="INFO",Food Food
-https://jio.instream.ml/jio.php?c=Food_Food&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Food_Food&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png" group-title="INFO", 4K Nature
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CLUB FM UAE" tvg-logo="https://radiosindia.com/images/clubfm.jpg" group-title="RADIO", CLUB FM UAE
@@ -643,6 +619,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodayliv
 #EXTINF: -1 tvg-id="NDTV.24x7.in" tvg-name="NDTV 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png" group-title="English News", NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
 #EXTINF: -1 tvg-id="ET.NOW.in" tvg-name="ET Now" tvg-logo="https://i.imgur.com/rhkI95a.png" group-title="English News", ET Now
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/489
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English News",Euro News
-https://jio.instream.ml/jio.php?c=Euro_News&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Euro_News&q=800&e=junk.m3u8
