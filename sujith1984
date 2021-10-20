@@ -255,35 +255,35 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF: -1 tvg-name="RU.TV" tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="MUSIC", RU.TV
 https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
 #EXTINF: -1 tvg-id="Star.Sports.1.HD.in" tvg-name="STAR SPORTS 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS 1
-http://veganxe.com/delta/falcon/max.php?id=125GT2356D67&e=.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7
 #EXTINF: -1 tvg-id="Star.Sports.2.HD.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 2
-http://livepulse2.uk:8080/88888/99999/272982
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/3
 #EXTINF: -1 tvg-id="Star.Sports.3.in" tvg-name="Star Sports 3" tvg-logo="https://i.imgur.com/YAfmPwg.png" group-title="SPORTS", Star Sports 3
-http://103.157.237.18:8000/play/605
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/30
 #EXTINF: -1 tvg-id="SkySpCricketHD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://pbs.twimg.com/profile_images/1346184641326309381/u_U_NGy6_400x400.jpg" group-title="SPORTS", Sky Sports Cricket HD
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/10527.ts
 #EXTINF: -1 tvg-id="SS.CRICKET.za" tvg-name="SUPER SPORTS CRICKET" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="SPORTS", SS CRICKET HD
-http://nicefly.xyz:80/h21041003/651032140/225522
+http://iptvtree.net:8080/Ainamanja/6a4fef36/157565
 #EXTINF: -1 tvg-name="Willow Sports" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow HD
-http://nicefly.xyz:80/h21041003/651032140/246246
+http://iptvtree.net:8080/Ainamanja/6a4fef36/165776
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmgQ8XH.png" group-title="SPORTS",Willow Xtra
-http://livepulse2.uk:8080/88888/99999/249671
+http://starshare.live:8080/400505/400505/5040
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jio Cricket English HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="SPORTS", Jio Cricket English HD
-https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="SPORTS",MI TV
-https://jio.instream.ml/jio.php?c=MI_TV&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=MI_TV&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="SONY.TEN.1.HD.in" tvg-name="Sony Ten 1" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Ten 1 HD
-https://jio.instream.ml/jio.php?c=Ten_HD&q=800&e=.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF: -1 tvg-id="SONY.TEN.2.HD.in" tvg-name="SONY TEN 2" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="SPORTS", SONY TEN 2 HD
-https://jio.instream.ml/jio.php?c=Ten2_HD&q=800&e=.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF: -1 tvg-id="SONY.TEN.3.HD.in" tvg-name="SONY TEN 3" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", SONY TEN 3 HD
-https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF: -1 tvg-id="SONY.SIX.HD.in" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS", Sony Six HD
-https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="SPORTS",Jio Football HD
-https://jio.instream.ml/jio.php?c=Jio_Football&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="SPORTS",Eurosport HD
-https://jio.instream.ml/jio.php?c=Dsports_HD&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Dsports_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HINDI", Sony HD
 https://jio.instream.ml/jio.php?c=Sony_HD&q=800&e=.m3u8
 #EXTINF: -1 tvg-id="SONY.MAX.HD.in" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="HINDI", Sony Max HD
