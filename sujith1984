@@ -191,7 +191,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/49
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nee Cinema" tvg-logo="https://play-lh.googleusercontent.com/_dw0MnsGwuxRibjmwtwoK9creskL0EOm5VQR_bMe4lpI1QoP-2iXyyCJL8UfqEiIvZM=s360-rw" group-title="MOVIES", Nee Cinema
 https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBO HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14576398_ico.png?ts=1626939302"" group-title="MOVIES", MBO HD
-http://watchindia.net:8880/60275/20486/2156
+http://xlx723.dyndns.org/iproxy/miniProxy.php/https://yupptvmsldevnonind.akamaized.net/hls/live/2004033/mbo/mbo/playlist.m3u8?hdnts=st=1613183104~exp=1713183004~acl=*/2004033/*~data=YuppTV_Monitoring~hmac=4ee622b2e3c0fb48623afc4416faa1398bb3625fa577c24b02180e989bee5b11
 #EXTINF: tvg-name="Uthradam Movies" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15241040_ico.png?ts=1634658967" group-title="MOVIES", Uthradam Movies
 http://185.105.4.245:1935/livesp/uthradam/chunklist_w1463561544.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ACV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjPYdUk0HYtpa58dpCNQmSOwuTLORjh8addZM3R2A=s176-c-k-c0x00ffffff-no-rj" group-title="MOVIES", ACV
