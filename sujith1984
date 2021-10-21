@@ -185,7 +185,7 @@ https://5a1178b42cc03.streamlock.net/8234/8234/chunklist_w911796453.m3u8
 #EXTINF: tvg-name="KCN" tvg-logo="http://www.vividhaonline.com/gtok/app_dashboard/uploads/products/KCN.png" group-title="LOCAL CABLE", KCN
 http://185.105.4.245:1935/livesp/kcn/playlist.m3u8
 #EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7400/567400-h" group-title="MOVIES", Asianet Movies
-https://mhdtvworld.co.in/red/abcc.php?id=2893&e=.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/182
 #EXTINF: -1 tvg-id="Surya.Movies.in" tvg-name="Surya Movies" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="MOVIES", Surya Movies
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/49
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nee Cinema" tvg-logo="https://play-lh.googleusercontent.com/_dw0MnsGwuxRibjmwtwoK9creskL0EOm5VQR_bMe4lpI1QoP-2iXyyCJL8UfqEiIvZM=s360-rw" group-title="MOVIES", Nee Cinema
