@@ -1,0 +1,788 @@
+<html><head><title></title></head><body style="background-color:#0000CC;color:#000000;">
+<marquee bgcolor="#FFFF00">Welcome To Mallu TV..Watch Your Favourite Shows Anytime Anywhere On Mallu TV...</marquee>
+<meta http-equiv="imagetoolbar" content="no" />
+<meta http-equiv="refresh" content="no">
+<style>.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+ 
+.content_more{
+      border-hide: 15px;
+     background-color: #ff0026;
+  width: 100%;
+     font-size: 15px;
+  font-style: Arimo;
+     color: red;
+     padding: 5px 12px;
+     border: 1px solid #ff0026;
+     margin-top: 2px;
+     margin-bottom: 2px;
+  text-shadow: rgba(0, 0, 0, 0.3) 3px 3px 4px;
+  text-align: left;
+  
+ 
+}
+
+
+.content_x{
+     border-hide: 1px;
+     background-color: #dbdbdb;
+  width: 100%;
+     font-size: 15px;
+  font-style: Arimo;
+     color: white;
+     padding: 5px 12px;
+     border: 1px solid #dbdbdb;
+     margin-bottom: 1px;
+  
+  text-align: left;
+ 
+}
+
+
+.content_catog{
+     border-hide: 20px;
+     background-color: #1d1d1d;
+  width:100%;
+     font-size: 10px;
+  font-style: Arimo;
+     color: white;
+     padding: 5px 2px;
+     border: 1px solid #5a5a5a;
+     margin-bottom: 2px;
+ 
+  text-align: left;
+ 
+}
+
+
+
+
+
+<!---------Slider-------------->
+* {box-sizing:border-box}
+body {font-family: Verdana,sans-serif;}
+.mySlides {display:none}
+
+ 
+/* Caption text */
+.text c{
+  color: #f2f2f2;
+   text-shadow: 0 0 3px #353535;
+  font-size: 20px;
+  padding: 8px 12px;
+  background: rgba(0,0,0, 0.7);
+  color: #fff;
+  position: absolute;
+  bottom: 2px;
+  width: 100%;
+  text-align: center;
+  
+  
+}
+
+
+<!--------Slider-Closed--------------->
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+/* Create four equal columns that floats next to each other */
+.catog {
+  
+  float: left;
+  width: 25%;
+  padding: 5px;
+   background-color: #black;
+}
+
+
+
+/* Clear floats after the columns */
+.row0:after {
+  content: "0";
+  display: table;
+  clear: both;
+}
+
+
+hr {
+  clear: both;
+  color: #ffffff;
+  background-color: #f0f0f0;
+  height: 5px;
+  border-width:device-width;
+}
+
+
+
+/*---------stylehome------------*/
+
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding:10px;
+  
+  
+   
+   
+}
+
+/* Clear floats after the columns */
+.rw:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.imgtub{
+     
+ border-hide: 10px;
+    
+   background-color: #ffffff;
+   border: 2px solid #ffffff;
+   background-color: #ffffff;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2) ;
+   
+  padding:5px;
+  padding-left: 5px;
+  
+}
+
+
+
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 12px;
+   
+   border: 0px solid #ffffff;
+   background-color: #ffffff;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 5px;
+  width: 5px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 20%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.activ {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://stream.gomtv.gq/channels/loader/loader.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+
+<style>
+
+ 
+
+ 
+
+    
+
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+
+.content_update{
+     border-hide: 8px;
+     box-hide: rgba(0, 0, 0, 0.1) 1px 1px 1px 1px;
+     background-color: #03252f;
+  width: 75%;
+     font-size: 15px;
+  font-style: Arimo;
+     color: white;
+     padding: 5px 12px;
+     border: 3px solid #03252f;
+     margin-bottom: 1px;
+  text-shadow: rgba(0, 0, 0, 0.3) 3px 3px 4px;
+  text-align: left;
+  
+ 
+}
+
+
+.videoWrapper {
+ position: relative;
+ padding-bottom: 30%; /* 16:9 */
+ padding-top: 30px;
+ height: 0;
+}
+.videoWrapper iframe {
+ position: absolute;
+ top: 0;
+        bottom: 0;
+ left: 0;
+ width: 100%;
+ height: 110%;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+
+
+.parent{
+    position: relative;
+}
+.over-img{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width : 100%;
+}
+
+</style>
+</head>
+ 
+<body bgcolor="#ffffff" >
+
+ 
+ 
+ 
+
+
+<!--------Live tv-------------->
+ 
+ 
+ 
+ <!-----Telugu--->
+
+
+     
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:gemihd" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/qOWHP8S.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/qOWHP8S.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:gemisd" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+    <div class="parent">
+    <img src="https://i.imgur.com/tLgdA5b.png" style="width:100% ; border-hide:0px; border="0">
+    <img src="https://i.imgur.com/tLgdA5b.png" style=" border-hide:0px; border="0" class="over-img"/>
+   </a>   
+     </div>
+     </div>
+     </div>
+      
+<div class="column">
+  <div class="imgtub">
+  <a href="go:gmeimo1" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/fsLpR2m.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/fsLpR2m.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:gmeimo2" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/ikBDOOu.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/ikBDOOu.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:gemicom" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/5CFa8LD.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/5CFa8LD.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+   <div class="column">
+  <div class="imgtub">
+  <a href="go:gemimus" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/TsWSS3j.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/TsWSS3j.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+	
+ <div class="column">
+  <div class="imgtub">
+  <a href="go:gemilife"style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/6RfLTKj.jpg" style="width:100% ; border-hide: 15px; border="0">
+  <img src="https://i.imgur.com/6RfLTKj.jpg" style=" border-hide: 15px; border="0" class="over-img"/>
+   </a>   
+  </div>
+  </div>
+  </div> 
+
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:maahd" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/44mjMyv.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/44mjMyv.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:maagold" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/RFCn7VW.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/RFCn7VW.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:maamovie" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/qs3aNdC.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/qs3aNdC.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:maamusi" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/cAaw59K.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/cAaw59K.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:ztelu" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/SODsUPc.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/SODsUPc.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:zmalu" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/lwZ9MHg.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/lwZ9MHg.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:etvhd" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/k1jf3oj.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/k1jf3oj.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:eplus" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/2mc6aQh.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/2mc6aQh.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:ecine" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/5eMZKAy.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/5eMZKAy.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:elife" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/yAzWgmX.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/yAzWgmX.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:ddy" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/xcDlgIm.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/xcDlgIm.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:yuva" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/6sy9ljJ.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/6sy9ljJ.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:saran" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/ERBbPqc.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/ERBbPqc.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:vihari" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/FhaIoii.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/FhaIoii.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:citynew" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/ctIPrOl.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/ctIPrOl.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:vhtv" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/aAEhu8Z.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/aAEhu8Z.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:stv" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/RnhZzQL.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/RnhZzQL.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:mana" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/dIBw6DJ.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/dIBw6DJ.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:ysr" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/kDezgGX.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/kDezgGX.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:metrotv" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/crEqyuw.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/crEqyuw.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+
+<div class="column">
+  <div class="imgtub">
+  <a href="go:bcn" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/ZD4azoX.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/ZD4azoX.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:shreyas" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/MafvOep.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/MafvOep.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:cowa" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/8AH0Kgc.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/8AH0Kgc.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:jltv" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/qW2Xmjr.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/qW2Xmjr.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:studio" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/B6PoST4.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/B6PoST4.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:tnews" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/Rnp19Wd.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/Rnp19Wd.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:v6news" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/i0mAGCA.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/i0mAGCA.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:rnewstel" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/83epCcG.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/83epCcG.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:10tv" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/3dNa02X.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/3dNa02X.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:mana1" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/NCbwlLX.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/NCbwlLX.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:tv5" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/eH2RldE.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/eH2RldE.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:vanitha" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/ABiZfJm.png" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/ABiZfJm.png" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="imgtub">
+  <a href="go:disctelu" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
+  <div class="parent">
+  <img src="https://i.imgur.com/y18uKsk.jpg" style="width:100% ; border-hide:0px; border="0">
+  <img src="https://i.imgur.com/y18uKsk.jpg" style=" border-hide:0px; border="0" class="over-img"/> 
+   </a>  
+  </div>
+  </div>
+  </div>
+  
+  
