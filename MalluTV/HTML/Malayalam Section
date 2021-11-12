@@ -1,5 +1,5 @@
-
-<html><head><title></title></head><body style="background-color:#000000;color:#FFFFFF;">
+<html><head><title></title></head><body style="background-color:#0000CC;color:#000000;">
+<marquee bgcolor="#FFFF00">Welcome To Mallu TV..Watch Your Favourite Shows Anytime Anywhere On Mallu TV...</marquee>
 <meta http-equiv="imagetoolbar" content="no" />
 <meta http-equiv="refresh" content="no">
 <style>.clearfix:after {
@@ -8,8 +8,8 @@
     clear: both;
 }
  
-.content_more{ 
-      border-hide: 15px;           
+.content_more{
+      border-hide: 15px;
      background-color: #ff0026;
   width: 100%;
      font-size: 15px;
@@ -22,12 +22,12 @@
   text-shadow: rgba(0, 0, 0, 0.3) 3px 3px 4px;
   text-align: left;
   
-	
+ 
 }
 
 
-.content_x{ 
-     border-hide: 1px;         
+.content_x{
+     border-hide: 1px;
      background-color: #dbdbdb;
   width: 100%;
      font-size: 15px;
@@ -38,12 +38,12 @@
      margin-bottom: 1px;
   
   text-align: left;
-	
+ 
 }
 
 
-.content_catog{ 
-     border-hide: 20px;         
+.content_catog{
+     border-hide: 20px;
      background-color: #1d1d1d;
   width:100%;
      font-size: 10px;
@@ -54,7 +54,7 @@
      margin-bottom: 2px;
  
   text-align: left;
-	
+ 
 }
 
 
@@ -155,7 +155,7 @@ hr {
 
 .imgtub{
      
- border-hide: 10px;  
+ border-hide: 10px;
     
    background-color: #ffffff;
    border: 2px solid #ffffff;
@@ -230,12 +230,12 @@ img {vertical-align: middle;}
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
 @keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
@@ -243,11 +243,7 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
-
-
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="http://stream.gomtv.gq/channels/loader/loader.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -273,8 +269,8 @@ img {vertical-align: middle;}
 
 
 
-.content_update{ 
-     border-hide: 8px;    
+.content_update{
+     border-hide: 8px;
      box-hide: rgba(0, 0, 0, 0.1) 1px 1px 1px 1px;
      background-color: #03252f;
   width: 75%;
@@ -287,7 +283,7 @@ img {vertical-align: middle;}
   text-shadow: rgba(0, 0, 0, 0.3) 3px 3px 4px;
   text-align: left;
   
-	
+ 
 }
 
 
@@ -330,7 +326,7 @@ img {vertical-align: middle;}
 </style>
 </head>
  
-<body bgcolor="#ffffff" > 
+<body bgcolor="#ffffff" >
 
  
  
@@ -341,9 +337,9 @@ img {vertical-align: middle;}
  
  
  
- <!-----malayalam--->
+ <!-----Malayalam--->
 
-     
+
   <div class="column">
   <div class="imgtub">
   <a href="go:asianhd" style="text-decoration:none; -webkit-tap-highlight-color: transparent;">
